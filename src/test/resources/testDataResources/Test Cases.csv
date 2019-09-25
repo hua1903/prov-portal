@@ -1,0 +1,120 @@
+TC Number			,RunOrNot	,Description
+@all				,Yes 		,All features of Prov Portal
+@loginpage			,No			,Feature of logging in
+@TC1				,No			,Login fail with username
+@TC2				,No			,Login fail with password
+@TC3				,No 		,Login successfully
+@HomePageNonAdmin	,No  		,Feature of Home page under Non Admin account
+@TC4				,No 		,Should see boxes on Home page
+@TC5				,No 		,Should not see boxes on Home page
+@TC6				,No 		,Open Rate Plan page from Home page
+@TC7				,No 		,Go to Home page by clicking on BTB logo
+@TC8				,No 		,Open APT page from Home page
+@HomePageProvAdmin	,No			,Feature of Home page under Prov Admin account
+@TC9				,No 		,Should see boxes on Home page
+@TC10				,No 		,Should not see boxes on Home page
+@TC11				,No 		,Open Rate Plan page from Home page
+@TC12				,No 		,Go to Home page by clicking on BTB logo
+@TC13				,No 		,Open Rate Plan Admin page from Home page
+@TC14				,No 		,Open APT page from Home page
+@HomePageAdmin		,No 		,Feature of Home page under Admin account
+@TC15				,No 		,Should see boxes on Home page
+@TC16				,No 		,Should not see boxes on Home page
+@TC17				,No 		,Go to Home page by clicking on BTB logo
+@TC18				,No 		,Open Rate Plan Admin page from Home page
+@TC19				,No 		,Open Rate Plan Admin page from Home page
+@TC20 				,No 		,Open Number Group from Home page
+@RatePlan			,No 		,Feature of Rate Plan page
+@FieldsRP			,No			,Function of checking visible labels of rate plans
+@TC21				,No			,Check labels in summary info
+@TC22				,No			,Check labels in call rate table
+@ButtonsRP			,No			,Function of checking visible action buttons of rate plans
+@TC23				,No			,Check buttons of Rate plan with pending and owner
+@TC24				,No			,Check buttons of Rate plan with not-pending and owner
+@TC25				,No			,Check buttons of Rate plan with pending and not owner
+@CheckInfoRP		,No			,Function of checking info of rate plan between website and API
+@TC26				,No			,Verify the list in Select Bureau dropdown
+@TC27				,No			,Verify Summary Info of all rate plans
+@TC28				,No			,Verify the Call Rate Info of a specific rate plan
+@FilterRP			,No			,Function of filtering rate plans
+@TC29				,No			,Filter the valid Description
+@TC30				,No			,Filter the invalid Description
+@CreateRP			,No			,Function of creating rate plan
+@TC31				,No			,Check fields on Create New Rate Plan dialog
+@TC32				,No			,Check the list in Bureau dropdown on Create New Plan Dialog
+@TC33				,No			,Only Create Rate Plan but dont save
+@TC34				,No			,Create new rate plan and save it
+@EditRP				,No			,Function of editing rate plans
+@TC35				,No			,Edit rate plan and save it
+@TC36				,No			,Check fields in calculator dialog of Rate per Cost
+@TC37				,No			,Check values in calculator dialog of Rate per Cost
+@TC38				,No			,Check fields in calculator dialog of Rate per KB
+@TC39				,No			,Check values in calculator dialog of Rate per KB with Data Type
+@CopyRP				,No 		,Function of copying rate plans
+@TC40				,No 		,Copy Rate Plan under one Bureau and save it
+@TC41				,No 		,Copy Rate Plan under different Bureau and save it
+@TC42				,No			,Cannot copy Rate Plan with existed description
+@DeleteRP			,No			,Function of deleting rate plans
+@TC43				,No			,Delete new Rate Plan and confirm to delete
+@TC44				,No			,Delete the change of Rate Plan and confirm to delete
+@TC45				,No			,Delete new Rate Plan and cancel to delete
+@TC46				,No			,Cannot delete new Rate Plan with no owner
+@TC47				,No			,Cannot delete the change of lived Rate Plan with no owner
+@SerNumRP			,No			,Function of service number
+@TC48				,No			,Verify fields on the service number list
+@TC49				,No			,Verify values of service number list
+@TC50				,No			,Verify the Download CSV
+@TC51				,No 		,Open new windows when double-clicking on Service Number
+@CompareRP			,No			,Function of comparing old and new version
+@TC52				,No 		,Dont see revert icon for new Rate Plan
+@TC53				,No			,Dont see revert icon for lived Rate Plan with no change
+@TC54				,No 		,Compare old and new version of lived Rate plan after changing info
+@TC55				,No 		,Compare old and new version of lived Rate plan after adding new call rate
+@RatePlanAd			,No    		,Feature of Rate Plan Admin page
+@FieldsAd			,No			,Function of checking visible fields
+@TC56				,No			,Check labels in summary info
+@TC57				,No			,Check labels in call rate table
+@TC58				,No			,Check buttons under Rate Plan Admin page
+@FilterAd			,No			,Function of filering rate plans 
+@TC59				,No			,Filter the valid Description
+@TC60				,No			,Filter the invalid Description
+@CheckInfoAd		,No			,Function of checking info of rate plans between website and API
+@TC61				,No			,Precondition-Create rate plan for checking info in Admin page
+@TC62				,No			,Verify summary info of Rate Plans between website and API
+@TC63				,No			,Verify call rate info of a specfic Rate Plans between website and API
+@RevertIconAd		,No			,Function of checking revert icon 
+@TC64				,No			,Do not display Revert icon for new rate plans
+@TC65				,No			,Do not display Revert icon for accepted or rejected rate plans under Show History view
+@TC66				,No			,Display Revert icon for lived rate plans that had been modified
+@Accept				,No			,Function of accepting rate plans
+@TC67				,No			,Precondition-Create rate plan for accepting new rate plan
+@TC68				,No			,Accept new Rate Plan and cancel this request
+@TC69				,No			,Accept new Rate Plan and confirm this request
+@TC70				,No			,Verify rate plan after accepting new rate plan
+@TC71				,No			,Accept the change of rate plan
+@EditAd				,No			,Function of editing rate plans
+@TC72				,No			,Precondition-Create rate plan for editing Rate Plan Admin page
+@TC73				,No			,Edit a specific Rate Plan on Rate Plan Admin page
+@TC74				,No			,Calculator for Rate per Cost
+@TC75				,No			,Calculator for Rate per KB with Data Type MB
+@Reject				,No			,Function of rejecting rate plans
+@TC76				,No			,Reject new Rate Plan and cancel it
+@TC77				,No			,Reject new Rate Plan and confirm
+@TC78				,No			,Reject the change of rate plan
+@History			,No			,Function of checking history
+@TC79				,No			,Check fields on History dialog
+@TC80				,No			,Check the accepted request in History
+@TC81				,No			,Check the edited request in History
+@TC82				,No			,Check fields after hiding History
+@CompareAd			,No			,Function of comparing old and new version of rate plans
+@TC83				,No   		,Compare old and new version of lived rate plans after changing info
+@TC84				,No			,Comparing old and new version of lived rate plans after adding new call rate
+@SerNumAd			,No			,Function of Service Number on Admin page
+@TC85				,No			,Precondition-Change info of rate plan for verifying Service Number list
+@TC86				,No			,Verify fields on the service number list
+@TC87				,No 		,Verify values of service number list
+@TC88				,No			,Verifying for downloading CSV of Service Number
+@TC89				,No			,Open new windows when double-clicking on Service Number
+@Logout				,No			,Feature of Logging Out
+@TC90				,No			,Do not logout website when clicking Logout > Cancel button
+@TC91				,No			,Logout website when clicking Logout > Confirm button

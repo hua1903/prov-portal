@@ -1,0 +1,3 @@
+Call Rate Category,Initial Duration (sec),Rate per Cost,Rate Fixed,Rate per KB,Rate per Second,Rate per 30 Sec,Rate per 60 Sec,Capped Fixed Duration,Capped Max Rate For Fixed Duration,Capped Rate (after Duration) per Second,Floating Credit Included
+Directory Assistance,2,1.2,2,0.00001259765625,2,2,2,2,2,2,Yes
+Business Mobile - CAP,2,1.2,2,0.00001259765625,2,2,2,2,2,2,No

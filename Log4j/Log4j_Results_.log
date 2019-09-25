@@ -1,0 +1,1369 @@
+2018-12-27T14:30:05.118Z  INFO main utilities.Log:21 - System will run test cases as: @CleanUp,@HomePageProvAdmin
+2018-12-27T14:30:05.120Z  INFO main utilities.Log:11 - Test is Starting...
+2018-12-27T14:30:12.119Z  INFO main utilities.Log:21 - The scenario: Removing some rate plans under local database that are not lived in cindy is running...
+2018-12-27T14:30:12.364Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:30:16.768Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Edit and save plan
+2018-12-27T14:30:16.774Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:30:20.893Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Pending Owner
+2018-12-27T14:30:20.901Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:30:24.999Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Pending Not Owner
+2018-12-27T14:30:25.004Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:30:29.128Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Test for creating new plan
+2018-12-27T14:30:29.133Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:30:33.226Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Dont Change Plan Of Hua
+2018-12-27T14:30:33.227Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:30:37.330Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Cancel
+2018-12-27T14:30:37.331Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:30:41.428Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Auto Test
+2018-12-27T14:30:41.429Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:30:45.554Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Test for edit
+2018-12-27T14:30:45.557Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:30:49.671Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto Test Case 666
+2018-12-27T14:30:49.672Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:30:53.773Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Copy of TC40
+2018-12-27T14:30:53.777Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:30:57.905Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Copy of TC41
+2018-12-27T14:30:57.907Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:31:02.018Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC71
+2018-12-27T14:31:02.019Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:31:06.138Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC72
+2018-12-27T14:31:06.139Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:31:10.249Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC76
+2018-12-27T14:31:10.250Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:31:14.365Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC77
+2018-12-27T14:31:14.367Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:31:18.442Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC78
+2018-12-27T14:31:18.444Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:31:22.566Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC83
+2018-12-27T14:31:22.567Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:31:26.656Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC84
+2018-12-27T14:31:26.658Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:31:30.768Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T14:31:30.770Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:31:34.866Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: DontSeeRevertIconOnAdmin
+2018-12-27T14:31:54.939Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:31:54.946Z  INFO main utilities.Log:21 - The scenario: Login by Prov-Admin is running...
+2018-12-27T14:32:17.204Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role prov-admin
+2018-12-27T14:32:17.207Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T14:32:37.229Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:32:37.236Z  INFO main utilities.Log:21 - The scenario: TC9-Should see the box Rate Plan on Home page is running...
+2018-12-27T14:32:38.261Z  INFO main utilities.Log:21 - The option Rate Plan is displayed
+2018-12-27T14:32:58.328Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:32:58.337Z  INFO main utilities.Log:21 - The scenario: TC9-Should see the box APT (Gladice) on Home page is running...
+2018-12-27T14:32:59.364Z  INFO main utilities.Log:21 - The option APT (Gladice) is displayed
+2018-12-27T14:33:19.390Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:33:19.396Z  INFO main utilities.Log:21 - The scenario: TC9-Should see the box Rate Plan Admin on Home page is running...
+2018-12-27T14:33:20.437Z  INFO main utilities.Log:21 - The option Rate Plan Admin is displayed
+2018-12-27T14:33:40.442Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:33:40.447Z  INFO main utilities.Log:21 - The scenario: TC10-Should not see the box Number Groups on Home page is running...
+2018-12-27T14:34:01.503Z  INFO main utilities.Log:21 - The option Number Groups is NOT displayed
+2018-12-27T14:34:21.564Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:34:21.581Z  INFO main utilities.Log:21 - The scenario: TC11-open Rate Plan page from Home page is running...
+2018-12-27T14:34:29.381Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T14:34:32.151Z ERROR main utilities.Log:31 - The page Rate Plan is not displayed
+2018-12-27T14:34:52.165Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:34:52.170Z  INFO main utilities.Log:21 - The scenario: TC12-Go to Home page by clicking BTB logo is running...
+2018-12-27T14:35:12.545Z ERROR main utilities.Log:31 - Cannot click on the box Rate Plan
+2018-12-27T14:39:41.729Z  INFO main utilities.Log:21 - System will run test cases as: @CleanUp,@HomePageProvAdmin
+2018-12-27T14:39:41.732Z  INFO main utilities.Log:11 - Test is Starting...
+2018-12-27T14:40:50.892Z  INFO main utilities.Log:21 - System will run test cases as: @CleanUp,@HomePageProvAdmin
+2018-12-27T14:40:50.895Z  INFO main utilities.Log:11 - Test is Starting...
+2018-12-27T14:41:19.072Z  INFO main utilities.Log:21 - The scenario: Removing some rate plans under local database that are not lived in cindy is running...
+2018-12-27T14:41:19.309Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:41:23.626Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Edit and save plan
+2018-12-27T14:41:23.631Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:41:27.764Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Pending Owner
+2018-12-27T14:41:27.767Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:41:31.886Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Pending Not Owner
+2018-12-27T14:41:31.891Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:41:35.972Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Test for creating new plan
+2018-12-27T14:41:35.975Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:41:40.047Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Dont Change Plan Of Hua
+2018-12-27T14:41:40.051Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:41:44.134Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Cancel
+2018-12-27T14:41:44.139Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:41:48.244Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Auto Test
+2018-12-27T14:41:48.249Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:41:52.357Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Test for edit
+2018-12-27T14:41:52.359Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:41:56.472Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto Test Case 666
+2018-12-27T14:41:56.477Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:42:00.561Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Copy of TC40
+2018-12-27T14:42:00.566Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:42:04.672Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Copy of TC41
+2018-12-27T14:42:04.677Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:42:08.801Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC71
+2018-12-27T14:42:08.803Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:42:12.894Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC72
+2018-12-27T14:42:12.896Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:42:16.989Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC76
+2018-12-27T14:42:16.990Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:42:21.076Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC77
+2018-12-27T14:42:21.079Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:42:25.224Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC78
+2018-12-27T14:42:25.229Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:42:29.350Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC83
+2018-12-27T14:42:29.353Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:42:33.464Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC84
+2018-12-27T14:42:33.468Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:42:37.529Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T14:42:37.532Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:42:41.639Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: DontSeeRevertIconOnAdmin
+2018-12-27T14:43:01.671Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:43:23.727Z  INFO main utilities.Log:21 - The scenario: Login by Prov-Admin is running...
+2018-12-27T14:43:46.017Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role prov-admin
+2018-12-27T14:43:46.019Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T14:44:06.036Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:44:08.166Z  INFO main utilities.Log:21 - The scenario: TC9-Should see the box Rate Plan on Home page is running...
+2018-12-27T14:44:09.217Z  INFO main utilities.Log:21 - The option Rate Plan is displayed
+2018-12-27T14:44:29.247Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:44:31.365Z  INFO main utilities.Log:21 - The scenario: TC9-Should see the box APT (Gladice) on Home page is running...
+2018-12-27T14:44:32.391Z  INFO main utilities.Log:21 - The option APT (Gladice) is displayed
+2018-12-27T14:44:52.438Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:44:54.537Z  INFO main utilities.Log:21 - The scenario: TC9-Should see the box Rate Plan Admin on Home page is running...
+2018-12-27T14:44:55.562Z  INFO main utilities.Log:21 - The option Rate Plan Admin is displayed
+2018-12-27T14:45:15.605Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:45:17.705Z  INFO main utilities.Log:21 - The scenario: TC10-Should not see the box Number Groups on Home page is running...
+2018-12-27T14:45:38.727Z  INFO main utilities.Log:21 - The option Number Groups is NOT displayed
+2018-12-27T14:45:58.770Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:46:00.869Z  INFO main utilities.Log:21 - The scenario: TC11-open Rate Plan page from Home page is running...
+2018-12-27T14:46:03.617Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T14:46:05.667Z  INFO main utilities.Log:21 - The page Rate Plan is displayed
+2018-12-27T14:46:07.681Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T14:46:07.734Z  INFO main utilities.Log:21 - The Logout button is displayed
+2018-12-27T14:46:07.833Z  INFO main utilities.Log:21 - Directed successfully to Home page
+2018-12-27T14:46:08.852Z  INFO main utilities.Log:21 - The option Rate Plan is displayed
+2018-12-27T14:46:28.864Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:46:30.978Z  INFO main utilities.Log:21 - The scenario: TC12-Go to Home page by clicking BTB logo is running...
+2018-12-27T14:46:31.114Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T14:46:33.159Z  INFO main utilities.Log:21 - The page Rate Plan is displayed
+2018-12-27T14:46:33.211Z  INFO main utilities.Log:21 - The BTB logo is displayed
+2018-12-27T14:46:33.261Z  INFO main utilities.Log:21 - The Logout button is displayed
+2018-12-27T14:46:33.336Z  INFO main utilities.Log:21 - Directed successfully to Home page
+2018-12-27T14:46:34.356Z  INFO main utilities.Log:21 - The option Rate Plan is displayed
+2018-12-27T14:46:54.387Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:46:56.484Z  INFO main utilities.Log:21 - The scenario: TC13-open Rate Plan Admin page from Home page is running...
+2018-12-27T14:46:57.127Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T14:46:59.253Z  INFO main utilities.Log:21 - The page Rate Plan is displayed
+2018-12-27T14:47:01.268Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T14:47:01.320Z  INFO main utilities.Log:21 - The Logout button is displayed
+2018-12-27T14:47:01.386Z  INFO main utilities.Log:21 - Directed successfully to Home page
+2018-12-27T14:47:02.411Z  INFO main utilities.Log:21 - The option Rate Plan Admin is displayed
+2018-12-27T14:47:22.480Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:47:29.603Z  INFO main utilities.Log:21 - The scenario: TC14-Open APT page from Home page is running...
+2018-12-27T14:47:49.625Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:47:50.227Z  INFO main utilities.Log:16 - Test is Ending...
+2018-12-27T14:48:25.408Z  INFO main utilities.Log:21 - System will run test cases as: @CleanUp,@RatePlanAd
+2018-12-27T14:48:25.411Z  INFO main utilities.Log:11 - Test is Starting...
+2018-12-27T14:48:54.016Z  INFO main utilities.Log:21 - The scenario: Removing some rate plans under local database that are not lived in cindy is running...
+2018-12-27T14:49:16.514Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role non-admin
+2018-12-27T14:49:16.740Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:49:21.024Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Edit and save plan
+2018-12-27T14:49:21.027Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:49:25.131Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Pending Owner
+2018-12-27T14:49:25.132Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:49:29.258Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Pending Not Owner
+2018-12-27T14:49:29.263Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:49:33.395Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Test for creating new plan
+2018-12-27T14:49:33.400Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:49:37.484Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Dont Change Plan Of Hua
+2018-12-27T14:49:37.488Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:49:41.626Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Cancel
+2018-12-27T14:49:41.629Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:49:45.769Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Auto Test
+2018-12-27T14:49:45.771Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:49:49.902Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Test for edit
+2018-12-27T14:49:49.904Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:49:54.013Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto Test Case 666
+2018-12-27T14:49:54.017Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:49:58.125Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Copy of TC40
+2018-12-27T14:49:58.127Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:50:02.275Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Copy of TC41
+2018-12-27T14:50:02.279Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:50:06.370Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC71
+2018-12-27T14:50:06.372Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:50:10.477Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC72
+2018-12-27T14:50:10.481Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:50:14.621Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC76
+2018-12-27T14:50:14.622Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:50:18.766Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC77
+2018-12-27T14:50:18.772Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:50:22.840Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC78
+2018-12-27T14:50:22.844Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:50:26.953Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC83
+2018-12-27T14:50:26.954Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:50:31.067Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC84
+2018-12-27T14:50:31.068Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:50:35.183Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T14:50:35.185Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:50:39.294Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: DontSeeRevertIconOnAdmin
+2018-12-27T14:50:59.367Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:51:01.472Z  INFO main utilities.Log:21 - The scenario: Login by admin and go to Rate Plan Admin page is running...
+2018-12-27T14:51:06.667Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T14:51:06.669Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T14:51:09.543Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T14:51:29.591Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:51:36.713Z  INFO main utilities.Log:21 - The scenario: TC56-Check labels in summary info is running...
+2018-12-27T14:52:37.887Z ERROR main utilities.Log:31 - Don't see the label Rate Plan changes Pending
+2018-12-27T14:56:22.388Z  INFO main utilities.Log:21 - System will run test cases as: @CleanUp,@RatePlanAd
+2018-12-27T14:56:22.391Z  INFO main utilities.Log:11 - Test is Starting...
+2018-12-27T14:56:28.961Z  INFO main utilities.Log:21 - The scenario: Removing some rate plans under local database that are not lived in cindy is running...
+2018-12-27T14:56:29.287Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role non-admin
+2018-12-27T14:56:29.480Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:56:33.844Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Edit and save plan
+2018-12-27T14:56:33.846Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:56:37.963Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Pending Owner
+2018-12-27T14:56:37.968Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:56:42.112Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Pending Not Owner
+2018-12-27T14:56:42.114Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:56:46.215Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Test for creating new plan
+2018-12-27T14:56:46.219Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:56:50.301Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Dont Change Plan Of Hua
+2018-12-27T14:56:50.305Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:56:54.428Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Cancel
+2018-12-27T14:56:54.430Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:56:58.550Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Auto Test
+2018-12-27T14:56:58.552Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:02.624Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Test for edit
+2018-12-27T14:57:02.625Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:06.739Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto Test Case 666
+2018-12-27T14:57:06.740Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:10.866Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Copy of TC40
+2018-12-27T14:57:10.871Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:14.981Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Copy of TC41
+2018-12-27T14:57:14.983Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:19.051Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC71
+2018-12-27T14:57:19.055Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:23.189Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC72
+2018-12-27T14:57:23.191Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:27.321Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC76
+2018-12-27T14:57:27.325Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:31.446Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC77
+2018-12-27T14:57:31.450Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:35.546Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC78
+2018-12-27T14:57:35.551Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:39.628Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC83
+2018-12-27T14:57:39.630Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:43.784Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC84
+2018-12-27T14:57:43.788Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:47.898Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T14:57:47.899Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T14:57:52.042Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: DontSeeRevertIconOnAdmin
+2018-12-27T14:58:14.216Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:58:14.222Z  INFO main utilities.Log:21 - The scenario: TC56-Check labels in summary info is running...
+2018-12-27T14:58:17.232Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T14:58:17.234Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T14:58:20.521Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T14:58:21.033Z  INFO main utilities.Log:21 - I should see the label Rate Plan changes Pending
+2018-12-27T14:58:21.740Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T14:58:23.932Z  INFO main utilities.Log:21 - The table with detail info is displayed under each rate plan
+2018-12-27T14:58:26.083Z  INFO main utilities.Log:21 - The table with detail info is displayed under each rate plan
+2018-12-27T14:58:26.159Z  INFO main utilities.Log:21 - The lable Rate Plan Id is displayed under rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T14:58:26.199Z  INFO main utilities.Log:21 - The lable Rate Plan Id is displayed under rate plan with description Hua not IDD
+2018-12-27T14:58:26.261Z  INFO main utilities.Log:21 - The lable Description is displayed under rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T14:58:26.307Z  INFO main utilities.Log:21 - The lable Description is displayed under rate plan with description Hua not IDD
+2018-12-27T14:58:26.377Z  INFO main utilities.Log:21 - The lable Rate Plan Type is displayed under rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T14:58:26.426Z  INFO main utilities.Log:21 - The lable Rate Plan Type is displayed under rate plan with description Hua not IDD
+2018-12-27T14:58:26.486Z  INFO main utilities.Log:21 - The lable Comments is displayed under rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T14:58:26.532Z  INFO main utilities.Log:21 - The lable Comments is displayed under rate plan with description Hua not IDD
+2018-12-27T14:58:26.590Z  INFO main utilities.Log:21 - The lable Submitted By is displayed under rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T14:58:26.636Z  INFO main utilities.Log:21 - The lable Submitted By is displayed under rate plan with description Hua not IDD
+2018-12-27T14:58:26.695Z  INFO main utilities.Log:21 - The lable Submitted Date is displayed under rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T14:58:26.741Z  INFO main utilities.Log:21 - The lable Submitted Date is displayed under rate plan with description Hua not IDD
+2018-12-27T14:58:48.946Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:58:48.951Z  INFO main utilities.Log:21 - The scenario: TC57-Check labels in call rate table is running...
+2018-12-27T14:58:52.006Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T14:58:52.007Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T14:58:54.315Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T14:58:56.679Z  INFO main utilities.Log:21 - The table with detail info is displayed under each rate plan
+2018-12-27T14:58:58.801Z  INFO main utilities.Log:21 - The table with detail info is displayed under each rate plan
+2018-12-27T14:58:59.844Z  INFO main utilities.Log:21 - The table with detail info is displayed under each rate plan
+2018-12-27T14:59:00.904Z  INFO main utilities.Log:21 - Under each table, I should see the Call Rate Category column
+2018-12-27T14:59:01.954Z  INFO main utilities.Log:21 - Under each table, I should see the Rate per Cost column
+2018-12-27T14:59:03.013Z  INFO main utilities.Log:21 - Under each table, I should see the Rate Fixed column
+2018-12-27T14:59:04.064Z  INFO main utilities.Log:21 - Under each table, I should see the Initial Duration (sec) column
+2018-12-27T14:59:05.105Z  INFO main utilities.Log:21 - Under each table, I should see the Rate per KB column
+2018-12-27T14:59:06.142Z  INFO main utilities.Log:21 - Under each table, I should see the Rate per Second column
+2018-12-27T14:59:07.179Z  INFO main utilities.Log:21 - Under each table, I should see the Rate per 30 Sec column
+2018-12-27T14:59:08.216Z  INFO main utilities.Log:21 - Under each table, I should see the Rate per 60 Sec column
+2018-12-27T14:59:09.254Z  INFO main utilities.Log:21 - Under each table, I should see the Capped Fixed Duration column
+2018-12-27T14:59:10.303Z  INFO main utilities.Log:21 - Under each table, I should see the Capped Max Rate For Fixed Duration column
+2018-12-27T14:59:11.353Z  INFO main utilities.Log:21 - Under each table, I should see the Capped Rate (after Duration) per Second column
+2018-12-27T14:59:12.418Z  INFO main utilities.Log:21 - Under each table, I should see the Floating Credit Included column
+2018-12-27T14:59:34.596Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T14:59:34.602Z  INFO main utilities.Log:21 - The scenario: TC58-Check buttons under Rate Plan Admin page is running...
+2018-12-27T14:59:37.221Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T14:59:37.222Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T14:59:40.593Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:00:00.954Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:00:01.007Z  INFO main utilities.Log:21 - I should see the Show History Records button
+2018-12-27T15:00:01.019Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T15:00:01.083Z  INFO main utilities.Log:21 - I should see the Accept button for rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:00:01.134Z  INFO main utilities.Log:21 - I should see the Accept button for rate plan with description Hua not IDD
+2018-12-27T15:00:01.186Z  INFO main utilities.Log:21 - I should see the Edit button for rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:00:01.225Z  INFO main utilities.Log:21 - I should see the Edit button for rate plan with description Hua not IDD
+2018-12-27T15:00:01.271Z  INFO main utilities.Log:21 - I should see the Reject button for rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:00:01.311Z  INFO main utilities.Log:21 - I should see the Reject button for rate plan with description Hua not IDD
+2018-12-27T15:00:23.479Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:00:23.485Z  INFO main utilities.Log:21 - The scenario: TC59-Filter the valid Description is running...
+2018-12-27T15:00:25.861Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:00:25.862Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:00:31.319Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:00:33.341Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:00:33.546Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T15:00:33.674Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T15:00:54.065Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:00:54.732Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Hua Auto Test
+2018-12-27T15:00:54.732Z  INFO main utilities.Log:21 - The value Hua Auto Test is entered in the filter textbox
+2018-12-27T15:01:01.124Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:01:01.326Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:01:21.660Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:01:22.277Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Hua Auto Test
+2018-12-27T15:01:22.278Z  INFO main utilities.Log:21 - The value Hua Auto Test is entered in the filter textbox
+2018-12-27T15:01:24.345Z  INFO main utilities.Log:21 - The rate plan with desciption >> Hua Auto Test << is displayed when filtering the text >> Hua Auto Test
+2018-12-27T15:01:46.546Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:01:46.552Z  INFO main utilities.Log:21 - The scenario: TC60-Filter the invalid Description is running...
+2018-12-27T15:01:49.434Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:01:49.435Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:01:52.220Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:01:53.054Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T15:02:13.247Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:02:13.857Z  INFO main utilities.Log:21 - The textbox filter is entered with the value invalid
+2018-12-27T15:02:13.858Z  INFO main utilities.Log:21 - The value invalid is entered in the filter textbox
+2018-12-27T15:02:35.864Z  INFO main utilities.Log:21 - There is no rate plan
+2018-12-27T15:02:58.027Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:02:58.032Z  INFO main utilities.Log:21 - The scenario: TC61-Precondition-Create rate plan for checking info in Admin page is running...
+2018-12-27T15:03:01.776Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:03:01.776Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:03:04.610Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:03:06.628Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:03:07.360Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T15:03:07.477Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T15:03:27.841Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:03:28.506Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Test for edit
+2018-12-27T15:03:28.506Z  INFO main utilities.Log:21 - The value Test for edit is entered in the filter textbox
+2018-12-27T15:03:29.585Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Test for edit
+2018-12-27T15:03:30.698Z  INFO main utilities.Log:21 - I enter the value Test fot API for the field Comments
+2018-12-27T15:03:53.945Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:03:53.950Z  INFO main utilities.Log:21 - The scenario: TC62-Verify summary info of Rate Plans between website and API is running...
+2018-12-27T15:03:56.486Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:03:56.487Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:03:59.287Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:03:59.885Z  INFO main utilities.Log:21 - {"code":200,"data":{"admin":true,"effective":true,"roles":["PROVISIONING","PROV_ADMIN"],"username":"stephenr"},"success":true}
+2018-12-27T15:04:05.837Z  INFO main utilities.Log:21 - {"code":200,"data":[{"bureau":"CORTEL","ratePlan":{"comments":"Hua not IDD","iddRatePlanId":null,"ratePlanId":"113","rebate":0.0,"rebateDescription":null,"ratePlanType":{"code":"Business ADSL","description":"Business ADSL"},"creditControl":0.0,"ratePlanCode":"Business ADSL113","increaseOutOfContract":null,"description":"Hua not IDD","effective":true,"modifiedBy":"a3digital","modifiedDate":1544675752956,"_id":null},"ratePlanState":"PENDING","callRates":[{"ratePlan":null,"callRateCategory":{"code":"C","description":"Call Connect Fee"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":1.0,"floatingCredit":false,"callRateId":1300,"description":"Call Connect Fee","effective":true,"modifiedBy":"admin","modifiedDate":1540357023000,"_id":null}],"_id":"5c11e1a83e3f75001adb8b36"},{"bureau":"CORTEL","ratePlan":{"comments":"Rebill Custom - Local 0.132, STD 0.088, F2M 0.242","iddRatePlanId":null,"ratePlanId":"52","rebate":0.0,"rebateDescription":"","ratePlanType":{"code":"Business Landline - Rebill","description":"Business Landline - Rebill"},"creditControl":0.0,"ratePlanCode":"Business Landline - Rebill52","increaseOutOfContract":null,"description":"Rebill Custom - Local 0.132, STD 0.088, F2M 0.242","effective":true,"modifiedBy":"stephenr","modifiedDate":1545282439576,"_id":null},"ratePlanState":"PENDING","callRates":[{"ratePlan":null,"callRateCategory":{"code":"C","description":"Call Connect Fee"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":1.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1029,"description":"Call Connect Fee","effective":true,"modifiedBy":"admin","modifiedDate":1306807482000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"D","description":"Data"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.2,"rate30Sec":1.0,"rate60Sec":0.0,"initialDurationSec":1.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":11.0,"floatingCredit":false,"callRateId":1030,"description":"Data","effective":true,"modifiedBy":"admin","modifiedDate":1306807486000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"DIR","description":"Directory Assistance"},"country":null,"callPrefix":null,"rateFixed":1.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":1.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1031,"description":"Directory Assistance","effective":true,"modifiedBy":"admin","modifiedDate":1306807489000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"F","description":"Fixed"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.2,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1032,"description":"Fixed","effective":true,"modifiedBy":"admin","modifiedDate":1306807493000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"F13","description":"Calls to 13"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1033,"description":"Calls to 13","effective":true,"modifiedBy":"Sgcoffey","modifiedDate":1446007808000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"F2M","description":"Fixed to Mobile"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.004034,"floatingCredit":false,"callRateId":1034,"description":"Fixed to Mobile","effective":true,"modifiedBy":"admin","modifiedDate":1306807522000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"FA","description":"Faxstream"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.2,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1035,"description":"Faxstream","effective":true,"modifiedBy":"admin","modifiedDate":1306807528000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"FI","description":"International IDD"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.5,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1036,"description":"International IDD","effective":true,"modifiedBy":"admin","modifiedDate":1306807535000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"FL","description":"Local"},"country":null,"callPrefix":null,"rateFixed":0.132,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1037,"description":"Local","effective":true,"modifiedBy":"admin","modifiedDate":1306807541000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"FLD","description":"Local Data"},"country":null,"callPrefix":null,"rateFixed":0.132,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1038,"description":"Local Data","effective":true,"modifiedBy":"admin","modifiedDate":1306807546000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"FSTD","description":"National STD"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0014667,"floatingCredit":false,"callRateId":1039,"description":"National STD","effective":true,"modifiedBy":"admin","modifiedDate":1306807560000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"FSTDD","description":"National STD Data"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0014667,"floatingCredit":false,"callRateId":1040,"description":"National STD Data","effective":true,"modifiedBy":"admin","modifiedDate":1306807570000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"ISD","description":"ISDN Data"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.2,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1041,"description":"ISDN Data","effective":true,"modifiedBy":"admin","modifiedDate":1306807579000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"ISDNVL","description":"ISDN Local"},"country":null,"callPrefix":null,"rateFixed":0.132,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1042,"description":"ISDN Local","effective":true,"modifiedBy":"admin","modifiedDate":1306807585000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"ISDNVSTD","description":"ISDN STD"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0014667,"floatingCredit":false,"callRateId":1043,"description":"ISDN STD","effective":true,"modifiedBy":"admin","modifiedDate":1306807595000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"P","description":"Other Charges - PT"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1044,"description":"Other Charges - PT","effective":true,"modifiedBy":"admin","modifiedDate":1306807607000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"S","description":"Summary"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1045,"description":"Summary","effective":true,"modifiedBy":"admin","modifiedDate":1306807612000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"SE","description":"Service & Equipment"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1046,"description":"Service & Equipment","effective":true,"modifiedBy":"admin","modifiedDate":1306807617000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"X","description":"Other Charges"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.2,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1047,"description":"Other Charges","effective":true,"modifiedBy":"admin","modifiedDate":1306807622000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"XSE UNITEL","description":"Service & Equipment"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1048,"description":"Service & Equipment","effective":true,"modifiedBy":"admin","modifiedDate":1306807627000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"XU UNITEL","description":"Other Charges"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.2,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1049,"description":"Other Charges","effective":true,"modifiedBy":"admin","modifiedDate":1306807634000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"SE BUS","description":"Business Line Rental (PSTN)"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1095,"description":"Business Line Rental (PSTN)","effective":true,"modifiedBy":"andyh","modifiedDate":1338787492000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"SE RES","description":"Residential Line Rental (PSTN)"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1096,"description":"Residential Line Rental (PSTN)","effective":true,"modifiedBy":"andyh","modifiedDate":1338787495000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"SE ISDN 2","description":"SE ISDN 2"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1097,"description":"SE ISDN 2","effective":true,"modifiedBy":"admin","modifiedDate":1351762980000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"NGN_DATA","description":"NGN_DATA"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":true,"callRateId":1121,"description":"DATA","effective":true,"modifiedBy":"system","modifiedDate":1420030800000,"_id":null}],"_id":"5c1b238712f40f45ac6687dc"},{"bureau":"CORTEL","ratePlan":{"comments":"Test fot API","iddRatePlanId":"125","ratePlanId":"121","rebate":0.0,"rebateDescription":null,"ratePlanType":{"code":"Business Mobile - CAP","description":"Business Mobile - CAP"},"creditControl":0.0,"ratePlanCode":"Business Mobile - CAP121","increaseOutOfContract":null,"description":"Test for edit","effective":true,"modifiedBy":"a3digital","modifiedDate":1545897811802,"_id":null},"ratePlanState":"PENDING","callRates":[{"ratePlan":null,"callRateCategory":{"code":"F","description":"Fixed"},"country":null,"callPrefix":null,"rateFixed":1.0,"ratePerCost":1.0,"rate30Sec":1.0,"rate60Sec":1.0,"initialDurationSec":1.0,"cappedRateAfterTime":1.0,"cappedRateInitial":1.0,"cappedTimeSec":1.0,"callRateCode":null,"ratePerKB":1.0,"ratePerSecond":1.0,"floatingCredit":true,"callRateId":1309,"description":"Fixed","effective":true,"modifiedBy":"admin","modifiedDate":1541156239000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"IN-13-STD","description":"IN 13"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":true,"callRateId":1322,"description":"IN 13","effective":true,"modifiedBy":"admin","modifiedDate":1541146386000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"IN-18-International","description":"IN 18 International"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1332,"description":"IN 18 International","effective":true,"modifiedBy":"admin","modifiedDate":1541146386000,"_id":null}],"_id":"5c248753586114001a7a797a"},{"bureau":"CORTEL","ratePlan":{"comments":"Test Filter","iddRatePlanId":"124","ratePlanId":"114","rebate":0.0,"rebateDescription":null,"ratePlanType":{"code":"Business Wireless Broadband","description":"Business Wireless Broadband"},"creditControl":0.0,"ratePlanCode":"Business Wireless Broadband114","increaseOutOfContract":null,"description":"Hua Auto Test","effective":true,"modifiedBy":"a3digital","modifiedDate":1545897659144,"_id":null},"ratePlanState":"PENDING","callRates":[{"ratePlan":null,"callRateCategory":{"code":"IN-18-STD","description":"IN 18 STD"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":1.2138E-5,"ratePerSecond":0.0,"floatingCredit":true,"callRateId":1301,"description":"IN 18 STD","effective":true,"modifiedBy":"admin","modifiedDate":1540369302000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"MO","description":"Mobile"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.3,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":true,"callRateId":1302,"description":"Mobile","effective":true,"modifiedBy":"admin","modifiedDate":1540369302000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"C","description":"Call Connect Fee"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1324,"description":"Call Connect Fee","effective":true,"modifiedBy":"admin","modifiedDate":1540550836000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"IN-13-L","description":"IN 13 L"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1325,"description":"IN 13 L","effective":true,"modifiedBy":"admin","modifiedDate":1540550836000,"_id":null}],"_id":"5c2486bb586114001a7a7979"}],"success":true}
+2018-12-27T15:04:16.375Z  INFO main utilities.Log:21 - The Rate Plan Id >> ["52"] << is displayed for rate plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:04:16.430Z  INFO main utilities.Log:21 - The Description >> ["Rebill Custom - Local 0.132, STD 0.088, F2M 0.242"] << is displayed for rate plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:04:16.485Z  INFO main utilities.Log:21 - The Rate Plan Type >> ["Business Landline - Rebill"] << is displayed for rate plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:04:16.540Z  INFO main utilities.Log:21 - The Comments >> ["Rebill Custom - Local 0.132, STD 0.088, F2M 0.242"] << is displayed for rate plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:04:38.699Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:04:38.708Z  INFO main utilities.Log:21 - The scenario: TC63-Verify call rate info of a specfic Rate Plans between website and API is running...
+2018-12-27T15:04:41.116Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:04:41.117Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:04:48.527Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:05:08.696Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:05:09.311Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Test for edit
+2018-12-27T15:05:09.311Z  INFO main utilities.Log:21 - The value Test for edit is entered in the filter textbox
+2018-12-27T15:05:11.395Z  INFO main utilities.Log:21 - I double click on Rate Plan with Description: Test for edit
+2018-12-27T15:05:11.458Z  INFO main utilities.Log:21 - The table with the Call Rate Category >> Fixed << is displayed on website
+2018-12-27T15:05:11.512Z  INFO main utilities.Log:21 - The table with the Initial Duration (sec) >> 1.0 << is displayed on website
+2018-12-27T15:05:11.571Z  INFO main utilities.Log:21 - The table with the Rate per Cost >> 1.0 << is displayed on website
+2018-12-27T15:05:11.636Z  INFO main utilities.Log:21 - The table with the Rate Fixed >> 1.0 << is displayed on website
+2018-12-27T15:05:11.690Z  INFO main utilities.Log:21 - The table with the Rate per KB >> 1.0 << is displayed on website
+2018-12-27T15:05:11.746Z  INFO main utilities.Log:21 - The table with the Rate per Second >> 1.0 << is displayed on website
+2018-12-27T15:05:11.801Z  INFO main utilities.Log:21 - The table with the Rate per 30 Sec >> 1.0 << is displayed on website
+2018-12-27T15:05:11.856Z  INFO main utilities.Log:21 - The table with the Rate per 60 Sec >> 1.0 << is displayed on website
+2018-12-27T15:05:11.913Z  INFO main utilities.Log:21 - The table with the Capped Fixed Duration >> 1.0 << is displayed on website
+2018-12-27T15:05:11.977Z  INFO main utilities.Log:21 - The table with the Capped Max Rate For Fixed Duration >> 1.0 << is displayed on website
+2018-12-27T15:05:12.042Z  INFO main utilities.Log:21 - The table with the Capped Rate (after Duration) per Second >> 1.0 << is displayed on website
+2018-12-27T15:05:12.094Z  INFO main utilities.Log:21 - The table with the Floating Credit Included >> true << is displayed on website
+2018-12-27T15:05:34.276Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:05:34.284Z  INFO main utilities.Log:21 - The scenario: TC64-Do not display Revert icon for new rate plans is running...
+2018-12-27T15:05:36.986Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:05:36.987Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:05:47.100Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:05:49.116Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:05:49.317Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T15:05:49.432Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T15:06:51.688Z  INFO main utilities.Log:21 - The button Create New Rate Plan is clicked
+2018-12-27T15:06:53.838Z  INFO main utilities.Log:21 - The Description textbox under Create Dialog is saying DontSeeRevertIconOnAdmin
+2018-12-27T15:07:05.397Z  INFO main utilities.Log:21 - The Create button under Create Dialog is clicked
+2018-12-27T15:07:08.367Z  INFO main utilities.Log:21 - The rate plan with Description DontSeeRevertIconOnAdmin is saved successfully
+2018-12-27T15:07:10.404Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:07:10.636Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:07:21.150Z  INFO main utilities.Log:21 - I should see the New value in Rate Plan ID for Rate Plan with Description DontSeeRevertIconOnAdmin
+2018-12-27T15:07:43.286Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:07:43.291Z  INFO main utilities.Log:21 - The scenario: TC65-Do not display Revert icon for accepted or rejected rate plans under Show History view is running...
+2018-12-27T15:07:47.567Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:07:47.568Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:07:54.023Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:07:54.074Z  INFO main utilities.Log:21 - I should see the Show History Records button
+2018-12-27T15:07:54.111Z  INFO main utilities.Log:21 - I should see the Show History Records button
+2018-12-27T15:07:56.186Z  INFO main utilities.Log:21 - Show History Records button is clicked
+2018-12-27T15:07:56.198Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T15:08:18.770Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:08:18.776Z  INFO main utilities.Log:21 - The scenario: TC66-Display Revert icon for lived rate plans that had been modified is running...
+2018-12-27T15:08:25.866Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:08:25.867Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:08:29.653Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:08:31.688Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:08:31.876Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T15:08:31.991Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T15:08:52.397Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:08:53.074Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Hua Auto Test
+2018-12-27T15:08:53.075Z  INFO main utilities.Log:21 - The value Hua Auto Test is entered in the filter textbox
+2018-12-27T15:08:53.096Z  INFO main utilities.Log:21 - The rate plan with description Hua Auto Test is displayed
+2018-12-27T15:08:54.172Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Hua Auto Test
+2018-12-27T15:08:55.349Z  INFO main utilities.Log:21 - I enter the value SeeRevertIcon AfterChaningLivedRatePlan for the field Comments
+2018-12-27T15:08:56.939Z  INFO main utilities.Log:21 - The rate plan with Description Hua Auto Test is saved successfully
+2018-12-27T15:08:58.964Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:08:59.179Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:09:00.159Z  INFO main utilities.Log:21 - I should see the revert icon for Rate Plan with Description Hua Auto Test
+2018-12-27T15:09:02.173Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:09:02.356Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T15:09:02.468Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T15:09:22.731Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:09:23.394Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Hua Auto Test
+2018-12-27T15:09:23.394Z  INFO main utilities.Log:21 - The value Hua Auto Test is entered in the filter textbox
+2018-12-27T15:09:23.415Z  INFO main utilities.Log:21 - The rate plan with description Hua Auto Test is displayed
+2018-12-27T15:09:24.469Z  INFO main utilities.Log:21 - I click on Delete button for Rate Plan with Description: Hua Auto Test
+2018-12-27T15:09:48.694Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:09:48.698Z  INFO main utilities.Log:21 - The scenario: TC71-Accept the change of rate plan is running...
+2018-12-27T15:09:52.943Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:09:52.944Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:09:56.757Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:09:58.771Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:09:58.967Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T15:09:59.098Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T15:10:19.395Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:10:20.041Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC71
+2018-12-27T15:10:20.041Z  INFO main utilities.Log:21 - The value Auto TC71 is entered in the filter textbox
+2018-12-27T15:10:21.094Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC71
+2018-12-27T15:10:22.200Z  INFO main utilities.Log:21 - I enter the value Accept Auto TC71 for the field Comments
+2018-12-27T15:10:23.779Z  INFO main utilities.Log:21 - I should see the PENDING in Rate Plan ID for Rate Plan with Description Auto TC71
+2018-12-27T15:10:25.808Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:10:26.000Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:10:28.102Z  INFO main utilities.Log:21 - The Accept Confirmation popup is displayed
+2018-12-27T15:10:50.174Z  INFO main utilities.Log:21 - I should NOT see the PENDING in Rate Plan ID for Rate Plan with Description Auto TC71
+2018-12-27T15:10:52.285Z  INFO main utilities.Log:21 - I should see the ACCEPTED in Rate Plan ID for Rate Plan with description: Auto TC71
+2018-12-27T15:10:54.319Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:10:54.520Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T15:10:54.637Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T15:11:14.985Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:11:15.637Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC71
+2018-12-27T15:11:15.637Z  INFO main utilities.Log:21 - The value Auto TC71 is entered in the filter textbox
+2018-12-27T15:11:17.687Z  INFO main utilities.Log:21 - I should see the value >> Accept Auto TC71 >> for the field Comments of Rate Plan with Description: Auto TC71
+2018-12-27T15:11:39.858Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:11:39.862Z  INFO main utilities.Log:21 - The scenario: TC72-Precondition-Create rate plan for editing Rate Plan Admin page is running...
+2018-12-27T15:11:42.943Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:11:42.944Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:11:45.729Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:11:47.741Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:11:47.936Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T15:11:48.045Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T15:12:08.341Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:12:08.986Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC72
+2018-12-27T15:12:08.986Z  INFO main utilities.Log:21 - The value Auto TC72 is entered in the filter textbox
+2018-12-27T15:12:10.075Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC72
+2018-12-27T15:12:11.208Z  INFO main utilities.Log:21 - I enter the value Precondition Of Auto TC72 for the field Comments
+2018-12-27T15:12:34.405Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:12:34.410Z  INFO main utilities.Log:21 - The scenario: TC73-Edit a specific Rate Plan on Rate Plan Admin page is running...
+2018-12-27T15:12:36.759Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:12:36.759Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:12:40.624Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:12:41.520Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T15:13:01.725Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:13:02.333Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC72
+2018-12-27T15:13:02.333Z  INFO main utilities.Log:21 - The value Auto TC72 is entered in the filter textbox
+2018-12-27T15:13:03.431Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC72
+2018-12-27T15:13:03.513Z  INFO main utilities.Log:21 - I select the value Business Wireless Broadband for the field Rate Plan Type
+2018-12-27T15:13:04.640Z  INFO main utilities.Log:21 - I enter the value Test for editing admin page for the field Comments
+2018-12-27T15:13:06.729Z  INFO main utilities.Log:21 - I select the value Directory Assistance for the field Call Rate Category
+2018-12-27T15:13:07.814Z  INFO main utilities.Log:21 - I enter the value 1.2 for the field Rate per Cost
+2018-12-27T15:13:08.889Z  INFO main utilities.Log:21 - I enter the value 2 for the field Rate Fixed
+2018-12-27T15:13:09.957Z  INFO main utilities.Log:21 - I enter the value 2 for the field Initial Duration (sec)
+2018-12-27T15:13:11.099Z  INFO main utilities.Log:21 - I enter the value 0.00001259765625 for the field Rate per KB
+2018-12-27T15:13:12.154Z  INFO main utilities.Log:21 - I enter the value 2 for the field Rate per Second
+2018-12-27T15:13:13.210Z  INFO main utilities.Log:21 - I enter the value 2 for the field Rate per 30 Sec
+2018-12-27T15:13:14.267Z  INFO main utilities.Log:21 - I enter the value 2 for the field Rate per 60 Sec
+2018-12-27T15:13:15.331Z  INFO main utilities.Log:21 - I enter the value 2 for the field Capped Fixed Duration
+2018-12-27T15:13:16.389Z  INFO main utilities.Log:21 - I enter the value 2 for the field Capped Max Rate For Fixed Duration
+2018-12-27T15:13:17.449Z  INFO main utilities.Log:21 - I enter the value 2 for the field Capped Rate (after Duration) per Second
+2018-12-27T15:13:17.512Z  INFO main utilities.Log:21 - I select the value Yes for the field Floating Credit Included
+2018-12-27T15:13:17.534Z  INFO main utilities.Log:21 - I should see the Save button of rate plan record
+2018-12-27T15:13:17.556Z  INFO main utilities.Log:21 - I should see the Cancel button of rate plan record
+2018-12-27T15:13:19.161Z  INFO main utilities.Log:21 - The rate plan with Description Auto TC72 is saved successfully
+2018-12-27T15:13:41.319Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:13:41.326Z  INFO main utilities.Log:21 - The scenario: TC74-Calculator for Rate per Cost is running...
+2018-12-27T15:13:45.303Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:13:45.304Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:13:49.102Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:14:09.375Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:14:09.981Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC72
+2018-12-27T15:14:09.982Z  INFO main utilities.Log:21 - The value Auto TC72 is entered in the filter textbox
+2018-12-27T15:14:10.002Z  INFO main utilities.Log:21 - The rate plan with description Auto TC72 is displayed
+2018-12-27T15:14:11.075Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC72
+2018-12-27T15:14:13.659Z  INFO main utilities.Log:21 - I click on the caculation icon next to Rate per Cost textbox
+2018-12-27T15:14:13.714Z  INFO main utilities.Log:21 - I should see the Wholesale to Retail Calculator dialog
+2018-12-27T15:14:14.845Z  INFO main utilities.Log:21 - The value 40 in textbox Wholesale Amount (ex GST) of calculation popup is entered
+2018-12-27T15:14:15.913Z  INFO main utilities.Log:21 - The value 60 in textbox Retail Amount (inc GST) of calculation popup is entered
+2018-12-27T15:14:15.928Z  INFO main utilities.Log:21 - The 1.5 of Rate per Cost in calculator popup is correct
+2018-12-27T15:14:15.984Z  INFO main utilities.Log:21 - The button Set of calculation popup is clicked
+2018-12-27T15:15:37.124Z  INFO main utilities.Log:21 - The Wholesale to Retail Calculator dialog is closed
+2018-12-27T15:15:37.172Z  INFO main utilities.Log:21 - The 1.5 of Rate per Cost in call rate is correct
+2018-12-27T15:15:59.368Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:15:59.373Z  INFO main utilities.Log:21 - The scenario: TC75-Calculator for Rate per KB with Data Type MB is running...
+2018-12-27T15:16:08.112Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:16:08.114Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:16:18.245Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:16:38.510Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:16:39.107Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC72
+2018-12-27T15:16:39.107Z  INFO main utilities.Log:21 - The value Auto TC72 is entered in the filter textbox
+2018-12-27T15:16:39.127Z  INFO main utilities.Log:21 - The rate plan with description Auto TC72 is displayed
+2018-12-27T15:16:40.203Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC72
+2018-12-27T15:17:01.071Z ERROR main utilities.Log:31 - The website element Rate per KB is changed.
+2018-12-27T15:17:23.262Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:17:23.267Z  INFO main utilities.Log:21 - The scenario: TC76-Reject new Rate Plan and cancel it is running...
+2018-12-27T15:17:43.627Z ERROR main utilities.Log:31 - Stop the scenario: >>TC76-Reject new Rate Plan and cancel it<< The element of UserName textbox is changed.
+2018-12-27T15:18:05.799Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:18:05.804Z  INFO main utilities.Log:21 - The scenario: TC77-Reject new Rate Plan and confirm is running...
+2018-12-27T15:18:26.182Z ERROR main utilities.Log:31 - Stop the scenario: >>TC77-Reject new Rate Plan and confirm<< The element of UserName textbox is changed.
+2018-12-27T15:18:48.381Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:18:48.393Z  INFO main utilities.Log:21 - The scenario: TC78-Reject the change of rate plan is running...
+2018-12-27T15:19:08.854Z ERROR main utilities.Log:31 - Stop the scenario: >>TC78-Reject the change of rate plan<< The element of UserName textbox is changed.
+2018-12-27T15:19:41.037Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:19:41.044Z  INFO main utilities.Log:21 - The scenario: TC79-Check fields on History dialog is running...
+2018-12-27T15:19:54.786Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:19:54.787Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:22:01.436Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:23:42.943Z ERROR main utilities.Log:31 - Don't see the Show History Records button
+2018-12-27T15:24:24.997Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:24:25.013Z  INFO main utilities.Log:21 - The scenario: TC80-Check the accepted request in History is running...
+2018-12-27T15:24:45.384Z ERROR main utilities.Log:31 - Stop the scenario: >>TC80-Check the accepted request in History<< The element of UserName textbox is changed.
+2018-12-27T15:47:47.350Z  INFO main utilities.Log:21 - System will run test cases as: @CleanUp,@RatePlanAd
+2018-12-27T15:47:47.353Z  INFO main utilities.Log:11 - Test is Starting...
+2018-12-27T15:47:54.300Z  INFO main utilities.Log:21 - The scenario: Removing some rate plans under local database that are not lived in cindy is running...
+2018-12-27T15:47:54.609Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role non-admin
+2018-12-27T15:47:54.806Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:47:59.135Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Edit and save plan
+2018-12-27T15:47:59.138Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:03.219Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Pending Owner
+2018-12-27T15:48:03.221Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:07.312Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Pending Not Owner
+2018-12-27T15:48:07.313Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:11.406Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Test for creating new plan
+2018-12-27T15:48:11.411Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:15.501Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Dont Change Plan Of Hua
+2018-12-27T15:48:15.502Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:20.599Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Cancel
+2018-12-27T15:48:20.604Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:24.679Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Hua Auto Test
+2018-12-27T15:48:24.680Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:28.798Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Test for edit
+2018-12-27T15:48:28.800Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:32.877Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto Test Case 666
+2018-12-27T15:48:32.878Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:37.587Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Copy of TC40
+2018-12-27T15:48:37.589Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:41.678Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Copy of TC41
+2018-12-27T15:48:41.679Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:45.775Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC71
+2018-12-27T15:48:45.780Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:49.873Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC72
+2018-12-27T15:48:49.874Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:53.969Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC76
+2018-12-27T15:48:53.972Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:48:58.081Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC77
+2018-12-27T15:48:58.084Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:49:02.178Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC78
+2018-12-27T15:49:02.180Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:49:06.246Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC83
+2018-12-27T15:49:06.247Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:49:10.358Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: Auto TC84
+2018-12-27T15:49:10.359Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:49:14.470Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T15:49:14.472Z  INFO main utilities.Log:21 - Fetching all documents from the collection
+2018-12-27T15:49:18.563Z  INFO main utilities.Log:21 - Successfully delete Rate Plan with Description: DontSeeRevertIconOnAdmin
+2018-12-27T15:49:40.803Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:49:40.809Z  INFO main utilities.Log:21 - The scenario: TC56-Check labels in summary info is running...
+2018-12-27T15:49:43.657Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:49:43.660Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:49:45.923Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:49:46.045Z  INFO main utilities.Log:21 - I should see the label Rate Plan changes Pending
+2018-12-27T15:49:46.726Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T15:49:48.866Z  INFO main utilities.Log:21 - The table with detail info is displayed under each rate plan
+2018-12-27T15:49:50.973Z  INFO main utilities.Log:21 - The table with detail info is displayed under each rate plan
+2018-12-27T15:49:51.059Z  INFO main utilities.Log:21 - The lable Rate Plan Id is displayed under rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:49:51.101Z  INFO main utilities.Log:21 - The lable Rate Plan Id is displayed under rate plan with description Hua not IDD
+2018-12-27T15:49:51.159Z  INFO main utilities.Log:21 - The lable Description is displayed under rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:49:51.212Z  INFO main utilities.Log:21 - The lable Description is displayed under rate plan with description Hua not IDD
+2018-12-27T15:49:51.277Z  INFO main utilities.Log:21 - The lable Rate Plan Type is displayed under rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:49:51.322Z  INFO main utilities.Log:21 - The lable Rate Plan Type is displayed under rate plan with description Hua not IDD
+2018-12-27T15:49:51.376Z  INFO main utilities.Log:21 - The lable Comments is displayed under rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:49:51.420Z  INFO main utilities.Log:21 - The lable Comments is displayed under rate plan with description Hua not IDD
+2018-12-27T15:49:51.477Z  INFO main utilities.Log:21 - The lable Submitted By is displayed under rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:49:51.520Z  INFO main utilities.Log:21 - The lable Submitted By is displayed under rate plan with description Hua not IDD
+2018-12-27T15:49:51.585Z  INFO main utilities.Log:21 - The lable Submitted Date is displayed under rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:49:51.627Z  INFO main utilities.Log:21 - The lable Submitted Date is displayed under rate plan with description Hua not IDD
+2018-12-27T15:50:13.837Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:50:13.841Z  INFO main utilities.Log:21 - The scenario: TC57-Check labels in call rate table is running...
+2018-12-27T15:50:17.205Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:50:17.207Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:50:20.011Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:50:22.218Z  INFO main utilities.Log:21 - The table with detail info is displayed under each rate plan
+2018-12-27T15:50:24.320Z  INFO main utilities.Log:21 - The table with detail info is displayed under each rate plan
+2018-12-27T15:50:25.367Z  INFO main utilities.Log:21 - The table with detail info is displayed under each rate plan
+2018-12-27T15:50:26.408Z  INFO main utilities.Log:21 - Under each table, I should see the Call Rate Category column
+2018-12-27T15:50:27.472Z  INFO main utilities.Log:21 - Under each table, I should see the Rate per Cost column
+2018-12-27T15:50:28.513Z  INFO main utilities.Log:21 - Under each table, I should see the Rate Fixed column
+2018-12-27T15:50:29.552Z  INFO main utilities.Log:21 - Under each table, I should see the Initial Duration (sec) column
+2018-12-27T15:50:30.599Z  INFO main utilities.Log:21 - Under each table, I should see the Rate per KB column
+2018-12-27T15:50:31.643Z  INFO main utilities.Log:21 - Under each table, I should see the Rate per Second column
+2018-12-27T15:50:32.688Z  INFO main utilities.Log:21 - Under each table, I should see the Rate per 30 Sec column
+2018-12-27T15:50:33.729Z  INFO main utilities.Log:21 - Under each table, I should see the Rate per 60 Sec column
+2018-12-27T15:50:34.770Z  INFO main utilities.Log:21 - Under each table, I should see the Capped Fixed Duration column
+2018-12-27T15:50:35.807Z  INFO main utilities.Log:21 - Under each table, I should see the Capped Max Rate For Fixed Duration column
+2018-12-27T15:50:36.905Z  INFO main utilities.Log:21 - Under each table, I should see the Capped Rate (after Duration) per Second column
+2018-12-27T15:50:37.943Z  INFO main utilities.Log:21 - Under each table, I should see the Floating Credit Included column
+2018-12-27T15:51:00.186Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:51:00.191Z  INFO main utilities.Log:21 - The scenario: TC58-Check buttons under Rate Plan Admin page is running...
+2018-12-27T15:51:03.088Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:51:03.089Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:51:05.400Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:51:25.615Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:51:25.661Z  INFO main utilities.Log:21 - I should see the Show History Records button
+2018-12-27T15:51:25.672Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T15:51:25.731Z  INFO main utilities.Log:21 - I should see the Accept button for rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:51:25.781Z  INFO main utilities.Log:21 - I should see the Accept button for rate plan with description Hua not IDD
+2018-12-27T15:51:25.825Z  INFO main utilities.Log:21 - I should see the Edit button for rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:51:25.864Z  INFO main utilities.Log:21 - I should see the Edit button for rate plan with description Hua not IDD
+2018-12-27T15:51:25.907Z  INFO main utilities.Log:21 - I should see the Reject button for rate plan with description Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:51:25.945Z  INFO main utilities.Log:21 - I should see the Reject button for rate plan with description Hua not IDD
+2018-12-27T15:51:48.095Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:51:48.102Z  INFO main utilities.Log:21 - The scenario: TC59-Filter the valid Description is running...
+2018-12-27T15:51:50.682Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:51:50.684Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:51:53.440Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:51:55.455Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:51:55.652Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T15:51:55.790Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T15:52:16.182Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:52:16.864Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Hua Auto Test
+2018-12-27T15:52:16.864Z  INFO main utilities.Log:21 - The value Hua Auto Test is entered in the filter textbox
+2018-12-27T15:52:23.197Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:52:23.400Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:52:43.702Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:52:44.306Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Hua Auto Test
+2018-12-27T15:52:44.307Z  INFO main utilities.Log:21 - The value Hua Auto Test is entered in the filter textbox
+2018-12-27T15:52:46.373Z  INFO main utilities.Log:21 - The rate plan with desciption >> Hua Auto Test << is displayed when filtering the text >> Hua Auto Test
+2018-12-27T15:53:08.526Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:53:08.531Z  INFO main utilities.Log:21 - The scenario: TC60-Filter the invalid Description is running...
+2018-12-27T15:53:11.285Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:53:11.286Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:53:13.590Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:53:14.549Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T15:53:34.929Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:53:35.518Z  INFO main utilities.Log:21 - The textbox filter is entered with the value invalid
+2018-12-27T15:53:35.519Z  INFO main utilities.Log:21 - The value invalid is entered in the filter textbox
+2018-12-27T15:53:57.564Z  INFO main utilities.Log:21 - There is no rate plan
+2018-12-27T15:54:19.738Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:54:19.743Z  INFO main utilities.Log:21 - The scenario: TC61-Precondition-Create rate plan for checking info in Admin page is running...
+2018-12-27T15:54:22.747Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:54:22.748Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:54:26.034Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:54:28.048Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:54:28.349Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T15:54:28.535Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T15:54:48.749Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:54:49.415Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Test for edit
+2018-12-27T15:54:49.415Z  INFO main utilities.Log:21 - The value Test for edit is entered in the filter textbox
+2018-12-27T15:54:50.476Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Test for edit
+2018-12-27T15:54:51.596Z  INFO main utilities.Log:21 - I enter the value Test fot API for the field Comments
+2018-12-27T15:55:14.812Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:55:14.816Z  INFO main utilities.Log:21 - The scenario: TC62-Verify summary info of Rate Plans between website and API is running...
+2018-12-27T15:55:19.512Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:55:19.512Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:55:21.816Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:55:22.374Z  INFO main utilities.Log:21 - {"code":200,"data":{"admin":true,"effective":true,"roles":["PROV_ADMIN","PROVISIONING"],"username":"stephenr"},"success":true}
+2018-12-27T15:55:28.336Z  INFO main utilities.Log:21 - {"code":200,"data":[{"bureau":"CORTEL","ratePlan":{"comments":"Hua not IDD","iddRatePlanId":null,"ratePlanId":"113","rebate":0.0,"rebateDescription":null,"ratePlanType":{"code":"Business ADSL","description":"Business ADSL"},"creditControl":0.0,"ratePlanCode":"Business ADSL113","increaseOutOfContract":null,"description":"Hua not IDD","effective":true,"modifiedBy":"a3digital","modifiedDate":1544675752956,"_id":null},"ratePlanState":"PENDING","callRates":[{"ratePlan":null,"callRateCategory":{"code":"C","description":"Call Connect Fee"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":1.0,"floatingCredit":false,"callRateId":1300,"description":"Call Connect Fee","effective":true,"modifiedBy":"admin","modifiedDate":1540357023000,"_id":null}],"_id":"5c11e1a83e3f75001adb8b36"},{"bureau":"CORTEL","ratePlan":{"comments":"Rebill Custom - Local 0.132, STD 0.088, F2M 0.242","iddRatePlanId":null,"ratePlanId":"52","rebate":0.0,"rebateDescription":"","ratePlanType":{"code":"Business Landline - Rebill","description":"Business Landline - Rebill"},"creditControl":0.0,"ratePlanCode":"Business Landline - Rebill52","increaseOutOfContract":null,"description":"Rebill Custom - Local 0.132, STD 0.088, F2M 0.242","effective":true,"modifiedBy":"stephenr","modifiedDate":1545282439576,"_id":null},"ratePlanState":"PENDING","callRates":[{"ratePlan":null,"callRateCategory":{"code":"C","description":"Call Connect Fee"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":1.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1029,"description":"Call Connect Fee","effective":true,"modifiedBy":"admin","modifiedDate":1306807482000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"D","description":"Data"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.2,"rate30Sec":1.0,"rate60Sec":0.0,"initialDurationSec":1.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":11.0,"floatingCredit":false,"callRateId":1030,"description":"Data","effective":true,"modifiedBy":"admin","modifiedDate":1306807486000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"DIR","description":"Directory Assistance"},"country":null,"callPrefix":null,"rateFixed":1.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":1.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1031,"description":"Directory Assistance","effective":true,"modifiedBy":"admin","modifiedDate":1306807489000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"F","description":"Fixed"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.2,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1032,"description":"Fixed","effective":true,"modifiedBy":"admin","modifiedDate":1306807493000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"F13","description":"Calls to 13"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1033,"description":"Calls to 13","effective":true,"modifiedBy":"Sgcoffey","modifiedDate":1446007808000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"F2M","description":"Fixed to Mobile"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.004034,"floatingCredit":false,"callRateId":1034,"description":"Fixed to Mobile","effective":true,"modifiedBy":"admin","modifiedDate":1306807522000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"FA","description":"Faxstream"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.2,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1035,"description":"Faxstream","effective":true,"modifiedBy":"admin","modifiedDate":1306807528000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"FI","description":"International IDD"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.5,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1036,"description":"International IDD","effective":true,"modifiedBy":"admin","modifiedDate":1306807535000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"FL","description":"Local"},"country":null,"callPrefix":null,"rateFixed":0.132,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1037,"description":"Local","effective":true,"modifiedBy":"admin","modifiedDate":1306807541000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"FLD","description":"Local Data"},"country":null,"callPrefix":null,"rateFixed":0.132,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1038,"description":"Local Data","effective":true,"modifiedBy":"admin","modifiedDate":1306807546000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"FSTD","description":"National STD"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0014667,"floatingCredit":false,"callRateId":1039,"description":"National STD","effective":true,"modifiedBy":"admin","modifiedDate":1306807560000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"FSTDD","description":"National STD Data"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0014667,"floatingCredit":false,"callRateId":1040,"description":"National STD Data","effective":true,"modifiedBy":"admin","modifiedDate":1306807570000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"ISD","description":"ISDN Data"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.2,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1041,"description":"ISDN Data","effective":true,"modifiedBy":"admin","modifiedDate":1306807579000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"ISDNVL","description":"ISDN Local"},"country":null,"callPrefix":null,"rateFixed":0.132,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1042,"description":"ISDN Local","effective":true,"modifiedBy":"admin","modifiedDate":1306807585000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"ISDNVSTD","description":"ISDN STD"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0014667,"floatingCredit":false,"callRateId":1043,"description":"ISDN STD","effective":true,"modifiedBy":"admin","modifiedDate":1306807595000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"P","description":"Other Charges - PT"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1044,"description":"Other Charges - PT","effective":true,"modifiedBy":"admin","modifiedDate":1306807607000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"S","description":"Summary"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1045,"description":"Summary","effective":true,"modifiedBy":"admin","modifiedDate":1306807612000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"SE","description":"Service & Equipment"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1046,"description":"Service & Equipment","effective":true,"modifiedBy":"admin","modifiedDate":1306807617000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"X","description":"Other Charges"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.2,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1047,"description":"Other Charges","effective":true,"modifiedBy":"admin","modifiedDate":1306807622000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"XSE UNITEL","description":"Service & Equipment"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1048,"description":"Service & Equipment","effective":true,"modifiedBy":"admin","modifiedDate":1306807627000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"XU UNITEL","description":"Other Charges"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.2,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1049,"description":"Other Charges","effective":true,"modifiedBy":"admin","modifiedDate":1306807634000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"SE BUS","description":"Business Line Rental (PSTN)"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1095,"description":"Business Line Rental (PSTN)","effective":true,"modifiedBy":"andyh","modifiedDate":1338787492000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"SE RES","description":"Residential Line Rental (PSTN)"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1096,"description":"Residential Line Rental (PSTN)","effective":true,"modifiedBy":"andyh","modifiedDate":1338787495000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"SE ISDN 2","description":"SE ISDN 2"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.1,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1097,"description":"SE ISDN 2","effective":true,"modifiedBy":"admin","modifiedDate":1351762980000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"NGN_DATA","description":"NGN_DATA"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":true,"callRateId":1121,"description":"DATA","effective":true,"modifiedBy":"system","modifiedDate":1420030800000,"_id":null}],"_id":"5c1b238712f40f45ac6687dc"},{"bureau":"CORTEL","ratePlan":{"comments":"Test fot API","iddRatePlanId":"125","ratePlanId":"121","rebate":0.0,"rebateDescription":null,"ratePlanType":{"code":"Business Mobile - CAP","description":"Business Mobile - CAP"},"creditControl":0.0,"ratePlanCode":"Business Mobile - CAP121","increaseOutOfContract":null,"description":"Test for edit","effective":true,"modifiedBy":"a3digital","modifiedDate":1545900892695,"_id":null},"ratePlanState":"PENDING","callRates":[{"ratePlan":null,"callRateCategory":{"code":"F","description":"Fixed"},"country":null,"callPrefix":null,"rateFixed":1.0,"ratePerCost":1.0,"rate30Sec":1.0,"rate60Sec":1.0,"initialDurationSec":1.0,"cappedRateAfterTime":1.0,"cappedRateInitial":1.0,"cappedTimeSec":1.0,"callRateCode":null,"ratePerKB":1.0,"ratePerSecond":1.0,"floatingCredit":true,"callRateId":1309,"description":"Fixed","effective":true,"modifiedBy":"admin","modifiedDate":1541156239000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"IN-13-STD","description":"IN 13"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":true,"callRateId":1322,"description":"IN 13","effective":true,"modifiedBy":"admin","modifiedDate":1541146386000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"IN-18-International","description":"IN 18 International"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1332,"description":"IN 18 International","effective":true,"modifiedBy":"admin","modifiedDate":1541146386000,"_id":null}],"_id":"5c24935c586114001a7a797f"},{"bureau":"CORTEL","ratePlan":{"comments":"Test Filter","iddRatePlanId":"124","ratePlanId":"114","rebate":0.0,"rebateDescription":null,"ratePlanType":{"code":"Business Wireless Broadband","description":"Business Wireless Broadband"},"creditControl":0.0,"ratePlanCode":"Business Wireless Broadband114","increaseOutOfContract":null,"description":"Hua Auto Test","effective":true,"modifiedBy":"a3digital","modifiedDate":1545900741216,"_id":null},"ratePlanState":"PENDING","callRates":[{"ratePlan":null,"callRateCategory":{"code":"IN-18-STD","description":"IN 18 STD"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":1.2138E-5,"ratePerSecond":0.0,"floatingCredit":true,"callRateId":1301,"description":"IN 18 STD","effective":true,"modifiedBy":"admin","modifiedDate":1540369302000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"MO","description":"Mobile"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":1.3,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":true,"callRateId":1302,"description":"Mobile","effective":true,"modifiedBy":"admin","modifiedDate":1540369302000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"C","description":"Call Connect Fee"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1324,"description":"Call Connect Fee","effective":true,"modifiedBy":"admin","modifiedDate":1540550836000,"_id":null},{"ratePlan":null,"callRateCategory":{"code":"IN-13-L","description":"IN 13 L"},"country":null,"callPrefix":null,"rateFixed":0.0,"ratePerCost":0.0,"rate30Sec":0.0,"rate60Sec":0.0,"initialDurationSec":0.0,"cappedRateAfterTime":0.0,"cappedRateInitial":0.0,"cappedTimeSec":0.0,"callRateCode":null,"ratePerKB":0.0,"ratePerSecond":0.0,"floatingCredit":false,"callRateId":1325,"description":"IN 13 L","effective":true,"modifiedBy":"admin","modifiedDate":1540550836000,"_id":null}],"_id":"5c2492c5586114001a7a797e"}],"success":true}
+2018-12-27T15:55:38.795Z  INFO main utilities.Log:21 - The Rate Plan Id >> ["52"] << is displayed for rate plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:55:38.849Z  INFO main utilities.Log:21 - The Description >> ["Rebill Custom - Local 0.132, STD 0.088, F2M 0.242"] << is displayed for rate plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:55:38.907Z  INFO main utilities.Log:21 - The Rate Plan Type >> ["Business Landline - Rebill"] << is displayed for rate plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:55:38.961Z  INFO main utilities.Log:21 - The Comments >> ["Rebill Custom - Local 0.132, STD 0.088, F2M 0.242"] << is displayed for rate plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T15:56:01.128Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:56:01.134Z  INFO main utilities.Log:21 - The scenario: TC63-Verify call rate info of a specfic Rate Plans between website and API is running...
+2018-12-27T15:56:05.025Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:56:05.026Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:56:09.564Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:56:29.620Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:56:30.223Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Test for edit
+2018-12-27T15:56:30.223Z  INFO main utilities.Log:21 - The value Test for edit is entered in the filter textbox
+2018-12-27T15:56:32.293Z  INFO main utilities.Log:21 - I double click on Rate Plan with Description: Test for edit
+2018-12-27T15:56:32.367Z  INFO main utilities.Log:21 - The table with the Call Rate Category >> Fixed << is displayed on website
+2018-12-27T15:56:32.430Z  INFO main utilities.Log:21 - The table with the Initial Duration (sec) >> 1.0 << is displayed on website
+2018-12-27T15:56:32.486Z  INFO main utilities.Log:21 - The table with the Rate per Cost >> 1.0 << is displayed on website
+2018-12-27T15:56:32.546Z  INFO main utilities.Log:21 - The table with the Rate Fixed >> 1.0 << is displayed on website
+2018-12-27T15:56:32.612Z  INFO main utilities.Log:21 - The table with the Rate per KB >> 1.0 << is displayed on website
+2018-12-27T15:56:32.669Z  INFO main utilities.Log:21 - The table with the Rate per Second >> 1.0 << is displayed on website
+2018-12-27T15:56:32.725Z  INFO main utilities.Log:21 - The table with the Rate per 30 Sec >> 1.0 << is displayed on website
+2018-12-27T15:56:32.782Z  INFO main utilities.Log:21 - The table with the Rate per 60 Sec >> 1.0 << is displayed on website
+2018-12-27T15:56:32.861Z  INFO main utilities.Log:21 - The table with the Capped Fixed Duration >> 1.0 << is displayed on website
+2018-12-27T15:56:32.941Z  INFO main utilities.Log:21 - The table with the Capped Max Rate For Fixed Duration >> 1.0 << is displayed on website
+2018-12-27T15:56:33.015Z  INFO main utilities.Log:21 - The table with the Capped Rate (after Duration) per Second >> 1.0 << is displayed on website
+2018-12-27T15:56:33.071Z  INFO main utilities.Log:21 - The table with the Floating Credit Included >> true << is displayed on website
+2018-12-27T15:56:55.225Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:56:55.230Z  INFO main utilities.Log:21 - The scenario: TC64-Do not display Revert icon for new rate plans is running...
+2018-12-27T15:56:58.994Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:56:58.994Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:57:01.779Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:57:03.794Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:57:03.988Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T15:57:04.117Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T15:58:06.560Z  INFO main utilities.Log:21 - The button Create New Rate Plan is clicked
+2018-12-27T15:58:08.710Z  INFO main utilities.Log:21 - The Description textbox under Create Dialog is saying DontSeeRevertIconOnAdmin
+2018-12-27T15:58:20.374Z  INFO main utilities.Log:21 - The Create button under Create Dialog is clicked
+2018-12-27T15:58:23.376Z  INFO main utilities.Log:21 - The rate plan with Description DontSeeRevertIconOnAdmin is saved successfully
+2018-12-27T15:58:25.399Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:58:25.626Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:58:36.064Z  INFO main utilities.Log:21 - I should see the New value in Rate Plan ID for Rate Plan with Description DontSeeRevertIconOnAdmin
+2018-12-27T15:58:58.244Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:58:58.248Z  INFO main utilities.Log:21 - The scenario: TC65-Do not display Revert icon for accepted or rejected rate plans under Show History view is running...
+2018-12-27T15:59:00.986Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:59:00.987Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:59:03.267Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:59:03.322Z  INFO main utilities.Log:21 - I should see the Show History Records button
+2018-12-27T15:59:03.360Z  INFO main utilities.Log:21 - I should see the Show History Records button
+2018-12-27T15:59:05.410Z  INFO main utilities.Log:21 - Show History Records button is clicked
+2018-12-27T15:59:05.427Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T15:59:28.051Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T15:59:28.054Z  INFO main utilities.Log:21 - The scenario: TC66-Display Revert icon for lived rate plans that had been modified is running...
+2018-12-27T15:59:30.607Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T15:59:30.608Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T15:59:34.375Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T15:59:36.389Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T15:59:36.596Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T15:59:36.718Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T15:59:57.011Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T15:59:57.686Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Hua Auto Test
+2018-12-27T15:59:57.686Z  INFO main utilities.Log:21 - The value Hua Auto Test is entered in the filter textbox
+2018-12-27T15:59:57.707Z  INFO main utilities.Log:21 - The rate plan with description Hua Auto Test is displayed
+2018-12-27T15:59:58.761Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Hua Auto Test
+2018-12-27T15:59:59.934Z  INFO main utilities.Log:21 - I enter the value SeeRevertIcon AfterChaningLivedRatePlan for the field Comments
+2018-12-27T16:00:01.539Z  INFO main utilities.Log:21 - The rate plan with Description Hua Auto Test is saved successfully
+2018-12-27T16:00:03.593Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:00:03.783Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:00:04.817Z  INFO main utilities.Log:21 - I should see the revert icon for Rate Plan with Description Hua Auto Test
+2018-12-27T16:00:06.831Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:00:07.027Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:00:07.144Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:00:27.497Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:00:28.160Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Hua Auto Test
+2018-12-27T16:00:28.160Z  INFO main utilities.Log:21 - The value Hua Auto Test is entered in the filter textbox
+2018-12-27T16:00:28.196Z  INFO main utilities.Log:21 - The rate plan with description Hua Auto Test is displayed
+2018-12-27T16:00:29.255Z  INFO main utilities.Log:21 - I click on Delete button for Rate Plan with Description: Hua Auto Test
+2018-12-27T16:00:53.461Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:00:53.465Z  INFO main utilities.Log:21 - The scenario: TC71-Accept the change of rate plan is running...
+2018-12-27T16:00:56.098Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:00:56.099Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:00:58.907Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:01:00.919Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:01:01.111Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:01:01.224Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:01:21.597Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:01:22.255Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC71
+2018-12-27T16:01:22.255Z  INFO main utilities.Log:21 - The value Auto TC71 is entered in the filter textbox
+2018-12-27T16:01:23.315Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC71
+2018-12-27T16:01:24.422Z  INFO main utilities.Log:21 - I enter the value Accept Auto TC71 for the field Comments
+2018-12-27T16:01:25.979Z  INFO main utilities.Log:21 - I should see the PENDING in Rate Plan ID for Rate Plan with Description Auto TC71
+2018-12-27T16:01:28.014Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:01:28.212Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:01:30.326Z  INFO main utilities.Log:21 - The Accept Confirmation popup is displayed
+2018-12-27T16:01:52.441Z  INFO main utilities.Log:21 - I should NOT see the PENDING in Rate Plan ID for Rate Plan with Description Auto TC71
+2018-12-27T16:01:54.521Z  INFO main utilities.Log:21 - I should see the ACCEPTED in Rate Plan ID for Rate Plan with description: Auto TC71
+2018-12-27T16:01:56.534Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:01:56.746Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:01:56.899Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:02:17.179Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:02:17.830Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC71
+2018-12-27T16:02:17.830Z  INFO main utilities.Log:21 - The value Auto TC71 is entered in the filter textbox
+2018-12-27T16:02:19.920Z  INFO main utilities.Log:21 - I should see the value >> Accept Auto TC71 >> for the field Comments of Rate Plan with Description: Auto TC71
+2018-12-27T16:02:42.087Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:02:42.092Z  INFO main utilities.Log:21 - The scenario: TC72-Precondition-Create rate plan for editing Rate Plan Admin page is running...
+2018-12-27T16:02:44.479Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:02:44.480Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:02:47.252Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:02:49.265Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:02:49.457Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:02:49.575Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:03:10.027Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:03:10.681Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC72
+2018-12-27T16:03:10.681Z  INFO main utilities.Log:21 - The value Auto TC72 is entered in the filter textbox
+2018-12-27T16:03:11.735Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC72
+2018-12-27T16:03:12.857Z  INFO main utilities.Log:21 - I enter the value Precondition Of Auto TC72 for the field Comments
+2018-12-27T16:03:36.123Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:03:36.127Z  INFO main utilities.Log:21 - The scenario: TC73-Edit a specific Rate Plan on Rate Plan Admin page is running...
+2018-12-27T16:03:38.776Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:03:38.777Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:03:41.596Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:03:42.283Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T16:04:02.663Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:04:03.257Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC72
+2018-12-27T16:04:03.257Z  INFO main utilities.Log:21 - The value Auto TC72 is entered in the filter textbox
+2018-12-27T16:04:04.312Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC72
+2018-12-27T16:04:04.394Z  INFO main utilities.Log:21 - I select the value Business Wireless Broadband for the field Rate Plan Type
+2018-12-27T16:04:05.511Z  INFO main utilities.Log:21 - I enter the value Test for editing admin page for the field Comments
+2018-12-27T16:04:07.597Z  INFO main utilities.Log:21 - I select the value Directory Assistance for the field Call Rate Category
+2018-12-27T16:04:08.672Z  INFO main utilities.Log:21 - I enter the value 1.2 for the field Rate per Cost
+2018-12-27T16:04:09.763Z  INFO main utilities.Log:21 - I enter the value 2 for the field Rate Fixed
+2018-12-27T16:04:10.831Z  INFO main utilities.Log:21 - I enter the value 2 for the field Initial Duration (sec)
+2018-12-27T16:04:11.972Z  INFO main utilities.Log:21 - I enter the value 0.00001259765625 for the field Rate per KB
+2018-12-27T16:04:13.040Z  INFO main utilities.Log:21 - I enter the value 2 for the field Rate per Second
+2018-12-27T16:04:14.096Z  INFO main utilities.Log:21 - I enter the value 2 for the field Rate per 30 Sec
+2018-12-27T16:04:15.153Z  INFO main utilities.Log:21 - I enter the value 2 for the field Rate per 60 Sec
+2018-12-27T16:04:16.233Z  INFO main utilities.Log:21 - I enter the value 2 for the field Capped Fixed Duration
+2018-12-27T16:04:17.299Z  INFO main utilities.Log:21 - I enter the value 2 for the field Capped Max Rate For Fixed Duration
+2018-12-27T16:04:18.356Z  INFO main utilities.Log:21 - I enter the value 2 for the field Capped Rate (after Duration) per Second
+2018-12-27T16:04:18.440Z  INFO main utilities.Log:21 - I select the value Yes for the field Floating Credit Included
+2018-12-27T16:04:18.464Z  INFO main utilities.Log:21 - I should see the Save button of rate plan record
+2018-12-27T16:04:18.484Z  INFO main utilities.Log:21 - I should see the Cancel button of rate plan record
+2018-12-27T16:04:20.081Z  INFO main utilities.Log:21 - The rate plan with Description Auto TC72 is saved successfully
+2018-12-27T16:04:42.253Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:04:42.259Z  INFO main utilities.Log:21 - The scenario: TC74-Calculator for Rate per Cost is running...
+2018-12-27T16:04:44.759Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:04:44.760Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:04:48.086Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:05:08.162Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:05:08.761Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC72
+2018-12-27T16:05:08.761Z  INFO main utilities.Log:21 - The value Auto TC72 is entered in the filter textbox
+2018-12-27T16:05:08.783Z  INFO main utilities.Log:21 - The rate plan with description Auto TC72 is displayed
+2018-12-27T16:05:09.847Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC72
+2018-12-27T16:05:13.915Z  INFO main utilities.Log:21 - I click on the caculation icon next to Rate per Cost textbox
+2018-12-27T16:05:13.959Z  INFO main utilities.Log:21 - I should see the Wholesale to Retail Calculator dialog
+2018-12-27T16:05:15.036Z  INFO main utilities.Log:21 - The value 40 in textbox Wholesale Amount (ex GST) of calculation popup is entered
+2018-12-27T16:05:16.112Z  INFO main utilities.Log:21 - The value 60 in textbox Retail Amount (inc GST) of calculation popup is entered
+2018-12-27T16:05:16.128Z  INFO main utilities.Log:21 - The 1.5 of Rate per Cost in calculator popup is correct
+2018-12-27T16:05:16.198Z  INFO main utilities.Log:21 - The button Set of calculation popup is clicked
+2018-12-27T16:06:37.299Z  INFO main utilities.Log:21 - The Wholesale to Retail Calculator dialog is closed
+2018-12-27T16:06:37.314Z  INFO main utilities.Log:21 - The 1.5 of Rate per Cost in call rate is correct
+2018-12-27T16:06:59.507Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:06:59.515Z  INFO main utilities.Log:21 - The scenario: TC75-Calculator for Rate per KB with Data Type MB is running...
+2018-12-27T16:07:02.759Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:07:02.760Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:07:05.128Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:07:25.393Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:07:25.991Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC72
+2018-12-27T16:07:25.991Z  INFO main utilities.Log:21 - The value Auto TC72 is entered in the filter textbox
+2018-12-27T16:07:26.014Z  INFO main utilities.Log:21 - The rate plan with description Auto TC72 is displayed
+2018-12-27T16:07:27.072Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC72
+2018-12-27T16:07:31.133Z  INFO main utilities.Log:21 - I click on the caculation icon next to Rate per KB textbox
+2018-12-27T16:07:31.193Z  INFO main utilities.Log:21 - I should see the Data Calculator to KB dialog
+2018-12-27T16:07:31.243Z  INFO main utilities.Log:21 - The Data Type with MB of calculation popup is selected
+2018-12-27T16:07:32.306Z  INFO main utilities.Log:21 - The value 1 in textbox Amount of calculation popup is entered
+2018-12-27T16:07:32.322Z  INFO main utilities.Log:21 - The 0.0009765625 of Rate per KB in calculator popup is correct
+2018-12-27T16:07:32.383Z  INFO main utilities.Log:21 - The button Set of calculation popup is clicked
+2018-12-27T16:08:53.530Z  INFO main utilities.Log:21 - The Data Calculator to KB dialog is closed
+2018-12-27T16:08:53.545Z  INFO main utilities.Log:21 - The 0.0009765625 of Rate per KB in call rate is correct
+2018-12-27T16:09:15.716Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:09:15.721Z  INFO main utilities.Log:21 - The scenario: TC76-Reject new Rate Plan and cancel it is running...
+2018-12-27T16:09:19.014Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:09:19.015Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:09:25.435Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:09:27.449Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:09:27.640Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:09:27.755Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:10:30.156Z  INFO main utilities.Log:21 - The button Create New Rate Plan is clicked
+2018-12-27T16:10:32.264Z  INFO main utilities.Log:21 - The Description textbox under Create Dialog is saying Auto TC76
+2018-12-27T16:10:43.898Z  INFO main utilities.Log:21 - The Create button under Create Dialog is clicked
+2018-12-27T16:10:48.306Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:10:48.515Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:11:08.935Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:11:09.541Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC76
+2018-12-27T16:11:09.541Z  INFO main utilities.Log:21 - The value Auto TC76 is entered in the filter textbox
+2018-12-27T16:11:09.560Z  INFO main utilities.Log:21 - The rate plan with description Auto TC76 is displayed
+2018-12-27T16:11:11.774Z  INFO main utilities.Log:21 - The Reject Confirmation popup is displayed
+2018-12-27T16:11:11.840Z  INFO main utilities.Log:21 - I should see the PENDING in Rate Plan ID for Rate Plan with Description Auto TC76
+2018-12-27T16:11:34.016Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:11:34.020Z  INFO main utilities.Log:21 - The scenario: TC77-Reject new Rate Plan and confirm is running...
+2018-12-27T16:11:38.216Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:11:38.217Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:11:40.966Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:11:42.982Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:11:43.187Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:11:43.306Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:12:45.850Z  INFO main utilities.Log:21 - The button Create New Rate Plan is clicked
+2018-12-27T16:12:47.943Z  INFO main utilities.Log:21 - The Description textbox under Create Dialog is saying Auto TC77
+2018-12-27T16:12:59.626Z  INFO main utilities.Log:21 - The Create button under Create Dialog is clicked
+2018-12-27T16:13:03.167Z  INFO main utilities.Log:21 - The rate plan with Description Auto TC77 is saved successfully
+2018-12-27T16:13:05.193Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:13:05.441Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:13:25.844Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:13:26.464Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC77
+2018-12-27T16:13:26.464Z  INFO main utilities.Log:21 - The value Auto TC77 is entered in the filter textbox
+2018-12-27T16:13:26.480Z  INFO main utilities.Log:21 - The rate plan with description Auto TC77 is displayed
+2018-12-27T16:13:28.676Z  INFO main utilities.Log:21 - The Reject Confirmation popup is displayed
+2018-12-27T16:13:32.826Z  INFO main utilities.Log:21 - I should see the REJECTED in Rate Plan ID for Rate Plan with description: Auto TC77
+2018-12-27T16:13:34.839Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:13:35.031Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:13:35.145Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:13:55.617Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:13:56.268Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC77
+2018-12-27T16:13:56.268Z  INFO main utilities.Log:21 - The value Auto TC77 is entered in the filter textbox
+2018-12-27T16:14:18.283Z  INFO main utilities.Log:21 - There is no rate plan
+2018-12-27T16:14:40.478Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:14:40.482Z  INFO main utilities.Log:21 - The scenario: TC78-Reject the change of rate plan is running...
+2018-12-27T16:14:43.537Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:14:43.538Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:14:46.823Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:14:48.862Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:14:49.074Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:14:49.191Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:15:09.567Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:15:10.209Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC78
+2018-12-27T16:15:10.209Z  INFO main utilities.Log:21 - The value Auto TC78 is entered in the filter textbox
+2018-12-27T16:15:12.322Z  INFO main utilities.Log:21 - I double click on Rate Plan with Description: Auto TC78
+2018-12-27T16:15:27.587Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC78
+2018-12-27T16:15:28.727Z  INFO main utilities.Log:21 - I enter the value Test for rejecting plan for the field Comments
+2018-12-27T16:15:30.326Z  INFO main utilities.Log:21 - I should see the PENDING in Rate Plan ID for Rate Plan with Description Auto TC78
+2018-12-27T16:15:32.360Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:15:32.555Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:15:34.688Z  INFO main utilities.Log:21 - The Reject Confirmation popup is displayed
+2018-12-27T16:15:56.775Z  INFO main utilities.Log:21 - I should NOT see the PENDING in Rate Plan ID for Rate Plan with Description Auto TC78
+2018-12-27T16:15:58.905Z  INFO main utilities.Log:21 - I should see the REJECTED in Rate Plan ID for Rate Plan with description: Auto TC78
+2018-12-27T16:16:00.928Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:16:01.131Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:16:01.245Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:16:21.720Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:16:22.375Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC78
+2018-12-27T16:16:22.376Z  INFO main utilities.Log:21 - The value Auto TC78 is entered in the filter textbox
+2018-12-27T16:16:24.486Z  INFO main utilities.Log:21 - I double click on Rate Plan with Description: Auto TC78
+2018-12-27T16:16:26.567Z  INFO main utilities.Log:21 - I should NOT see the value >> Test for rejecting plan >> for the field Comments of Rate Plan with Description: Auto TC78
+2018-12-27T16:16:38.864Z  INFO main utilities.Log:21 - I should see the value Auto TC78 for the field Comments of Rate Plan with Description: Auto TC78
+2018-12-27T16:17:01.062Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:17:01.066Z  INFO main utilities.Log:21 - The scenario: TC79-Check fields on History dialog is running...
+2018-12-27T16:17:03.845Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:17:03.845Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:17:07.216Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:17:07.276Z  INFO main utilities.Log:21 - I should see the Show History Records button
+2018-12-27T16:17:07.310Z  INFO main utilities.Log:21 - I should see the Show History Records button
+2018-12-27T16:17:09.374Z  INFO main utilities.Log:21 - Show History Records button is clicked
+2018-12-27T16:17:31.179Z  INFO main utilities.Log:21 - I should see the Hide History Records button
+2018-12-27T16:17:31.194Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T16:17:51.539Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:17:52.250Z  INFO main utilities.Log:21 - The textbox filter is entered with the value ACCEPTED
+2018-12-27T16:17:52.250Z  INFO main utilities.Log:21 - The value ACCEPTED is entered in the filter textbox
+2018-12-27T16:17:54.334Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: 254125125
+2018-12-27T16:17:54.396Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Test IDD 2510
+2018-12-27T16:17:54.454Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: HHH
+2018-12-27T16:17:54.507Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Test RR
+2018-12-27T16:17:54.566Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD NO 1
+2018-12-27T16:17:54.625Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Hues
+2018-12-27T16:17:54.681Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: 2154125
+2018-12-27T16:17:54.741Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Immediately Display ID
+2018-12-27T16:17:54.799Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Copy of63
+2018-12-27T16:17:54.854Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD of PROV 1
+2018-12-27T16:17:54.908Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: SNIPED 03
+2018-12-27T16:17:54.965Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD with 2
+2018-12-27T16:17:55.031Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD 04
+2018-12-27T16:17:55.085Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD 05
+2018-12-27T16:17:55.140Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD rate plan
+2018-12-27T16:17:55.195Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD Rate Plan 1
+2018-12-27T16:17:55.251Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Test/
+2018-12-27T16:17:55.305Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: 1245
+2018-12-27T16:17:55.356Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Hua Copy
+2018-12-27T16:17:55.413Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Hua Copy
+2018-12-27T16:17:55.468Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Hua Copy
+2018-12-27T16:17:55.524Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Hua Copy
+2018-12-27T16:17:55.583Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Hua Copy
+2018-12-27T16:17:55.653Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Hua Copy
+2018-12-27T16:17:55.707Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Hua Copy
+2018-12-27T16:17:55.758Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Many Call Rate
+2018-12-27T16:17:55.808Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Copy of Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T16:17:55.858Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Copy of 52
+2018-12-27T16:17:55.913Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Copy of 52
+2018-12-27T16:17:55.968Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Hua Create HUA
+2018-12-27T16:17:56.023Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Hua not IDD
+2018-12-27T16:17:56.078Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Copy of63
+2018-12-27T16:17:56.134Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Copy of63
+2018-12-27T16:17:56.192Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Auto TC 83
+2018-12-27T16:17:56.248Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Test IDD 2510
+2018-12-27T16:17:56.305Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD 117
+2018-12-27T16:17:56.363Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD 118
+2018-12-27T16:17:56.419Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD 120
+2018-12-27T16:17:56.475Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Test 121
+2018-12-27T16:17:56.543Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Test 121
+2018-12-27T16:17:56.596Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Test 121
+2018-12-27T16:17:56.650Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Test 121
+2018-12-27T16:17:56.724Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Test 121
+2018-12-27T16:17:56.785Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Test 121
+2018-12-27T16:17:56.839Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Test 121
+2018-12-27T16:17:56.889Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD 122
+2018-12-27T16:17:56.939Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD with 2
+2018-12-27T16:17:56.990Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD 128
+2018-12-27T16:17:57.044Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD 128
+2018-12-27T16:17:57.097Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD rate plan
+2018-12-27T16:17:57.149Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD Rate Plan 1
+2018-12-27T16:17:57.200Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: IDD Rate Plan 1
+2018-12-27T16:17:57.251Z  INFO main utilities.Log:21 - I should see ACCEPTED status for Rate Plan with description: Auto TC71
+2018-12-27T16:17:59.320Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: 254125125
+2018-12-27T16:17:59.374Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Test IDD 2510
+2018-12-27T16:17:59.425Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: HHH
+2018-12-27T16:17:59.481Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Test RR
+2018-12-27T16:17:59.533Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: IDD NO 1
+2018-12-27T16:17:59.580Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Hues
+2018-12-27T16:17:59.642Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: 2154125
+2018-12-27T16:17:59.692Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Immediately Display ID
+2018-12-27T16:17:59.738Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Copy of63
+2018-12-27T16:17:59.786Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: IDD of PROV 1
+2018-12-27T16:17:59.836Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: SNIPED 03
+2018-12-27T16:17:59.889Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: IDD with 2
+2018-12-27T16:17:59.932Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: IDD 04
+2018-12-27T16:17:59.975Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: IDD 05
+2018-12-27T16:18:00.021Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: IDD rate plan
+2018-12-27T16:18:00.067Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: IDD Rate Plan 1
+2018-12-27T16:18:00.112Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Test/
+2018-12-27T16:18:00.157Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: 1245
+2018-12-27T16:18:00.203Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Hua Copy
+2018-12-27T16:18:00.422Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Many Call Rate
+2018-12-27T16:18:00.467Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Copy of Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T16:18:00.508Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Copy of 52
+2018-12-27T16:18:00.580Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Hua Create HUA
+2018-12-27T16:18:00.624Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Hua not IDD
+2018-12-27T16:18:00.719Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Auto TC 83
+2018-12-27T16:18:00.790Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: IDD 117
+2018-12-27T16:18:00.833Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: IDD 118
+2018-12-27T16:18:00.871Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: IDD 120
+2018-12-27T16:18:00.913Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Test 121
+2018-12-27T16:18:01.118Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: IDD 122
+2018-12-27T16:18:01.181Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: IDD 128
+2018-12-27T16:18:01.333Z  INFO main utilities.Log:21 - All buttons should be disable for ACCEPTED Rate Plan with description: Auto TC71
+2018-12-27T16:18:21.576Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:18:22.230Z  INFO main utilities.Log:21 - The textbox filter is entered with the value REJECTED
+2018-12-27T16:18:22.230Z  INFO main utilities.Log:21 - The value REJECTED is entered in the filter textbox
+2018-12-27T16:18:24.348Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: 12345
+2018-12-27T16:18:24.433Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: 123456
+2018-12-27T16:18:24.483Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: 5215215
+2018-12-27T16:18:24.537Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Sup 1
+2018-12-27T16:18:24.597Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Test TMA 1
+2018-12-27T16:18:24.650Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Hanana
+2018-12-27T16:18:24.700Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Only Prov role
+2018-12-27T16:18:24.751Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: 4235235
+2018-12-27T16:18:24.802Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Te22
+2018-12-27T16:18:24.853Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: 124
+2018-12-27T16:18:24.908Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Auto TC77
+2018-12-27T16:18:24.960Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Mutliline (L 11, STD 8.8, F2M 22, 13 35.2, FF 0)
+2018-12-27T16:18:25.019Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Hua Copy
+2018-12-27T16:18:25.327Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Auto TC78
+2018-12-27T16:18:25.390Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Copy of 52
+2018-12-27T16:18:25.486Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Hua not IDD
+2018-12-27T16:18:25.591Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Copy of63
+2018-12-27T16:18:25.637Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Test 121
+2018-12-27T16:18:25.683Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: IDD rate plan
+2018-12-27T16:18:25.729Z  INFO main utilities.Log:21 - I should see REJECTED status for Rate Plan with description: Test/
+2018-12-27T16:18:27.799Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: 12345
+2018-12-27T16:18:27.875Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: 123456
+2018-12-27T16:18:27.921Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: 5215215
+2018-12-27T16:18:27.964Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Sup 1
+2018-12-27T16:18:28.011Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Test TMA 1
+2018-12-27T16:18:28.051Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Hanana
+2018-12-27T16:18:28.090Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Only Prov role
+2018-12-27T16:18:28.130Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: 4235235
+2018-12-27T16:18:28.174Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Te22
+2018-12-27T16:18:28.215Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: 124
+2018-12-27T16:18:28.257Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Auto TC77
+2018-12-27T16:18:28.298Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Mutliline (L 11, STD 8.8, F2M 22, 13 35.2, FF 0)
+2018-12-27T16:18:28.348Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Hua Copy
+2018-12-27T16:18:28.570Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Auto TC78
+2018-12-27T16:18:28.609Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Copy of 52
+2018-12-27T16:18:28.668Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Hua not IDD
+2018-12-27T16:18:28.760Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Copy of63
+2018-12-27T16:18:28.796Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Test 121
+2018-12-27T16:18:28.835Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: IDD rate plan
+2018-12-27T16:18:28.870Z  INFO main utilities.Log:21 - All buttons should be disable for REJECTED Rate Plan with description: Test/
+2018-12-27T16:18:49.047Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:18:49.669Z  INFO main utilities.Log:21 - The textbox filter is entered with the value PENDING
+2018-12-27T16:18:49.669Z  INFO main utilities.Log:21 - The value PENDING is entered in the filter textbox
+2018-12-27T16:18:51.724Z  INFO main utilities.Log:21 - I should see PENDING status for Rate Plan with description: DontSeeRevertIconOnAdmin
+2018-12-27T16:18:51.773Z  INFO main utilities.Log:21 - I should see PENDING status for Rate Plan with description: Auto TC76
+2018-12-27T16:18:51.822Z  INFO main utilities.Log:21 - I should see PENDING status for Rate Plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T16:18:51.887Z  INFO main utilities.Log:21 - I should see PENDING status for Rate Plan with description: Hua not IDD
+2018-12-27T16:18:51.932Z  INFO main utilities.Log:21 - I should see PENDING status for Rate Plan with description: Test for edit
+2018-12-27T16:18:51.980Z  INFO main utilities.Log:21 - I should see PENDING status for Rate Plan with description: Auto TC72
+2018-12-27T16:18:54.062Z  INFO main utilities.Log:21 - All buttons should be enable for PENDING Rate Plan with description: DontSeeRevertIconOnAdmin
+2018-12-27T16:18:54.124Z  INFO main utilities.Log:21 - All buttons should be enable for PENDING Rate Plan with description: Auto TC76
+2018-12-27T16:18:54.185Z  INFO main utilities.Log:21 - All buttons should be enable for PENDING Rate Plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T16:18:54.246Z  INFO main utilities.Log:21 - All buttons should be enable for PENDING Rate Plan with description: Hua not IDD
+2018-12-27T16:18:54.307Z  INFO main utilities.Log:21 - All buttons should be enable for PENDING Rate Plan with description: Test for edit
+2018-12-27T16:18:54.375Z  INFO main utilities.Log:21 - All buttons should be enable for PENDING Rate Plan with description: Auto TC72
+2018-12-27T16:19:16.525Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:19:16.529Z  INFO main utilities.Log:21 - The scenario: TC80-Check the accepted request in History is running...
+2018-12-27T16:19:20.060Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:19:20.061Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:19:23.842Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:19:23.894Z  INFO main utilities.Log:21 - I should see the Show History Records button
+2018-12-27T16:19:25.949Z  INFO main utilities.Log:21 - Show History Records button is clicked
+2018-12-27T16:19:25.963Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T16:19:46.065Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:19:46.761Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC71
+2018-12-27T16:19:46.761Z  INFO main utilities.Log:21 - The value Auto TC71 is entered in the filter textbox
+2018-12-27T16:19:46.783Z  INFO main utilities.Log:21 - The rate plan with description Auto TC71 is displayed
+2018-12-27T16:19:48.877Z  INFO main utilities.Log:21 - I should see the ACCEPTED in Rate Plan ID for Rate Plan with description: Auto TC71
+2018-12-27T16:20:11.065Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:20:11.069Z  INFO main utilities.Log:21 - The scenario: TC81-Check the rejected request in History is running...
+2018-12-27T16:20:14.374Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:20:14.374Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:20:17.649Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:20:17.698Z  INFO main utilities.Log:21 - I should see the Show History Records button
+2018-12-27T16:20:19.757Z  INFO main utilities.Log:21 - Show History Records button is clicked
+2018-12-27T16:20:19.775Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T16:20:40.074Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:20:40.782Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC78
+2018-12-27T16:20:40.782Z  INFO main utilities.Log:21 - The value Auto TC78 is entered in the filter textbox
+2018-12-27T16:20:40.803Z  INFO main utilities.Log:21 - The rate plan with description Auto TC78 is displayed
+2018-12-27T16:20:42.882Z  INFO main utilities.Log:21 - I should see the REJECTED in Rate Plan ID for Rate Plan with description: Auto TC78
+2018-12-27T16:21:05.100Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:21:05.104Z  INFO main utilities.Log:21 - The scenario: TC82-Check fields after hiding History is running...
+2018-12-27T16:21:07.456Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:21:07.456Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:21:10.224Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:21:10.275Z  INFO main utilities.Log:21 - I should see the Show History Records button
+2018-12-27T16:21:12.329Z  INFO main utilities.Log:21 - Show History Records button is clicked
+2018-12-27T16:21:34.230Z  INFO main utilities.Log:21 - I should see the Show History Records button
+2018-12-27T16:21:34.242Z  INFO main utilities.Log:21 - There are some Rate Plans under Rate Plan Admin page
+2018-12-27T16:21:36.310Z  INFO main utilities.Log:21 - I do not see ACCEPTED status for Rate Plan with description: DontSeeRevertIconOnAdmin
+2018-12-27T16:21:36.355Z  INFO main utilities.Log:21 - I do not see ACCEPTED status for Rate Plan with description: Auto TC76
+2018-12-27T16:21:36.401Z  INFO main utilities.Log:21 - I do not see ACCEPTED status for Rate Plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T16:21:36.445Z  INFO main utilities.Log:21 - I do not see ACCEPTED status for Rate Plan with description: Hua not IDD
+2018-12-27T16:21:36.489Z  INFO main utilities.Log:21 - I do not see ACCEPTED status for Rate Plan with description: Test for edit
+2018-12-27T16:21:36.535Z  INFO main utilities.Log:21 - I do not see ACCEPTED status for Rate Plan with description: Auto TC72
+2018-12-27T16:21:38.573Z  INFO main utilities.Log:21 - I do not see REJECTED status for Rate Plan with description: DontSeeRevertIconOnAdmin
+2018-12-27T16:21:38.604Z  INFO main utilities.Log:21 - I do not see REJECTED status for Rate Plan with description: Auto TC76
+2018-12-27T16:21:38.637Z  INFO main utilities.Log:21 - I do not see REJECTED status for Rate Plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T16:21:38.670Z  INFO main utilities.Log:21 - I do not see REJECTED status for Rate Plan with description: Hua not IDD
+2018-12-27T16:21:38.721Z  INFO main utilities.Log:21 - I do not see REJECTED status for Rate Plan with description: Test for edit
+2018-12-27T16:21:38.761Z  INFO main utilities.Log:21 - I do not see REJECTED status for Rate Plan with description: Auto TC72
+2018-12-27T16:21:40.840Z  INFO main utilities.Log:21 - I should see PENDING status for Rate Plan with description: DontSeeRevertIconOnAdmin
+2018-12-27T16:21:40.883Z  INFO main utilities.Log:21 - I should see PENDING status for Rate Plan with description: Auto TC76
+2018-12-27T16:21:40.925Z  INFO main utilities.Log:21 - I should see PENDING status for Rate Plan with description: Rebill Custom - Local 0.132, STD 0.088, F2M 0.242
+2018-12-27T16:21:40.966Z  INFO main utilities.Log:21 - I should see PENDING status for Rate Plan with description: Hua not IDD
+2018-12-27T16:21:41.006Z  INFO main utilities.Log:21 - I should see PENDING status for Rate Plan with description: Test for edit
+2018-12-27T16:21:41.048Z  INFO main utilities.Log:21 - I should see PENDING status for Rate Plan with description: Auto TC72
+2018-12-27T16:22:03.250Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:22:03.254Z  INFO main utilities.Log:21 - The scenario: TC83-Compare old and new version of lived rate plans after changing info is running...
+2018-12-27T16:22:05.922Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:22:05.923Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:22:08.218Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:22:10.232Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:22:10.416Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:22:10.535Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:22:30.898Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:22:31.548Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC83
+2018-12-27T16:22:31.548Z  INFO main utilities.Log:21 - The value Auto TC83 is entered in the filter textbox
+2018-12-27T16:22:33.660Z  INFO main utilities.Log:21 - I double click on Rate Plan with Description: Auto TC83
+2018-12-27T16:22:45.583Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC83
+2018-12-27T16:22:45.655Z  INFO main utilities.Log:21 - I select the value Business Wireless Broadband for the field Rate Plan Type
+2018-12-27T16:22:46.760Z  INFO main utilities.Log:21 - I enter the value Compare rate plan for the field Comments
+2018-12-27T16:22:48.840Z  INFO main utilities.Log:21 - I select the value Inbound for the field Call Rate Category
+2018-12-27T16:22:49.927Z  INFO main utilities.Log:21 - I enter the value 0.023 for the field Rate per Cost
+2018-12-27T16:22:51.530Z  INFO main utilities.Log:21 - The rate plan with Description Auto TC83 is saved successfully
+2018-12-27T16:22:53.552Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:22:53.739Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:23:13.944Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:23:14.583Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC83
+2018-12-27T16:23:14.584Z  INFO main utilities.Log:21 - The value Auto TC83 is entered in the filter textbox
+2018-12-27T16:23:14.607Z  INFO main utilities.Log:21 - The rate plan with description Auto TC83 is displayed
+2018-12-27T16:23:16.676Z  INFO main utilities.Log:21 - I double click on Rate Plan with Description: Auto TC83
+2018-12-27T16:23:27.568Z  INFO main utilities.Log:21 - I should see the revert icon for Rate Plan with Description Auto TC83
+2018-12-27T16:23:27.624Z  INFO main utilities.Log:21 - Revert icon of rate plan with description: Auto TC83 is clicked
+2018-12-27T16:23:27.722Z  INFO main utilities.Log:21 - Comments is highlighted
+2018-12-27T16:23:27.779Z  INFO main utilities.Log:21 - Rate Plan Type is highlighted
+2018-12-27T16:23:27.827Z  INFO main utilities.Log:21 - Submitted By is highlighted
+2018-12-27T16:23:27.874Z  INFO main utilities.Log:21 - Submitted Date is highlighted
+2018-12-27T16:23:27.951Z  INFO main utilities.Log:21 - Call Rate Category is highlighted
+2018-12-27T16:23:28.024Z  INFO main utilities.Log:21 - Rate per Cost is highlighted
+2018-12-27T16:23:28.398Z  INFO main utilities.Log:21 - The highlighted value of column Comments should be Auto TC83
+2018-12-27T16:23:28.466Z  INFO main utilities.Log:21 - The highlighted value of column Rate Plan Type should be Business ADSL
+2018-12-27T16:23:28.542Z  INFO main utilities.Log:21 - The highlighted value of column Submitted By should be admin
+2018-12-27T16:23:28.616Z  INFO main utilities.Log:21 - The highlighted value of column Submitted Date should be 25/12/2018
+2018-12-27T16:23:28.739Z  INFO main utilities.Log:21 - The highlighted value of column Call Rate Category should be Call Connect Fee
+2018-12-27T16:23:28.866Z  INFO main utilities.Log:21 - The highlighted value of column Rate per Cost should be 0
+2018-12-27T16:23:29.333Z  INFO main utilities.Log:21 - Revert icon of rate plan with description: Auto TC83 is clicked
+2018-12-27T16:23:52.034Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:23:52.038Z  INFO main utilities.Log:21 - The scenario: TC84-Comparing old and new version of lived rate plans after adding new call rate is running...
+2018-12-27T16:23:54.766Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:23:54.767Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:23:57.538Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:23:59.553Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:23:59.761Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:23:59.872Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:24:20.326Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:24:40.559Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:24:41.198Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC84
+2018-12-27T16:24:41.198Z  INFO main utilities.Log:21 - The value Auto TC84 is entered in the filter textbox
+2018-12-27T16:24:43.303Z  INFO main utilities.Log:21 - I double click on Rate Plan with Description: Auto TC84
+2018-12-27T16:24:55.614Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: Auto TC84
+2018-12-27T16:24:55.689Z  INFO main utilities.Log:21 - I select the value Consumer Mobile - Nude for the field Rate Plan Type
+2018-12-27T16:24:56.825Z  INFO main utilities.Log:21 - I enter the value Compare with new call rate for the field Comments
+2018-12-27T16:24:58.938Z  INFO main utilities.Log:21 - I select the value Intrafleet for the field Call Rate Category
+2018-12-27T16:25:00.061Z  INFO main utilities.Log:21 - I enter the value 0.0069 for the field Rate per Cost
+2018-12-27T16:25:00.126Z  INFO main utilities.Log:21 - Add row button is clicked
+2018-12-27T16:25:03.863Z  INFO main utilities.Log:21 - The rate plan with Description Auto TC84 is saved successfully
+2018-12-27T16:25:05.887Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:25:06.086Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:25:26.419Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:25:27.016Z  INFO main utilities.Log:21 - The textbox filter is entered with the value Auto TC84
+2018-12-27T16:25:27.016Z  INFO main utilities.Log:21 - The value Auto TC84 is entered in the filter textbox
+2018-12-27T16:25:27.032Z  INFO main utilities.Log:21 - The rate plan with description Auto TC84 is displayed
+2018-12-27T16:25:29.096Z  INFO main utilities.Log:21 - I double click on Rate Plan with Description: Auto TC84
+2018-12-27T16:25:40.744Z  INFO main utilities.Log:21 - I should see the revert icon for Rate Plan with Description Auto TC84
+2018-12-27T16:25:40.797Z  INFO main utilities.Log:21 - Revert icon of rate plan with description: Auto TC84 is clicked
+2018-12-27T16:25:40.914Z  INFO main utilities.Log:21 - Comments is highlighted
+2018-12-27T16:25:40.978Z  INFO main utilities.Log:21 - Rate Plan Type is highlighted
+2018-12-27T16:25:41.044Z  INFO main utilities.Log:21 - Submitted By is highlighted
+2018-12-27T16:25:41.113Z  INFO main utilities.Log:21 - Submitted Date is highlighted
+2018-12-27T16:25:41.205Z  INFO main utilities.Log:21 - Call Rate Category is highlighted
+2018-12-27T16:25:41.288Z  INFO main utilities.Log:21 - Rate per Cost is highlighted
+2018-12-27T16:25:41.978Z  INFO main utilities.Log:21 - The highlighted value of column Comments should be Auto TC84
+2018-12-27T16:25:42.049Z  INFO main utilities.Log:21 - The highlighted value of column Rate Plan Type should be Inbound Services Only.
+2018-12-27T16:25:42.114Z  INFO main utilities.Log:21 - The highlighted value of column Submitted By should be admin
+2018-12-27T16:25:42.184Z  INFO main utilities.Log:21 - The highlighted value of column Submitted Date should be 25/12/2018
+2018-12-27T16:25:42.299Z  INFO main utilities.Log:21 - The highlighted value of column Call Rate Category should be Call Connect Fee
+2018-12-27T16:25:42.441Z  INFO main utilities.Log:21 - The highlighted value of column Rate per Cost should be 1
+2018-12-27T16:25:43.562Z  INFO main utilities.Log:21 - Call Rate Category is highlighted
+2018-12-27T16:25:43.614Z  INFO main utilities.Log:21 - Initial Duration (sec) is highlighted
+2018-12-27T16:25:43.667Z  INFO main utilities.Log:21 - Rate per Cost is highlighted
+2018-12-27T16:25:43.718Z  INFO main utilities.Log:21 - Rate Fixed is highlighted
+2018-12-27T16:25:43.769Z  INFO main utilities.Log:21 - Rate per KB is highlighted
+2018-12-27T16:25:43.818Z  INFO main utilities.Log:21 - Rate per Second is highlighted
+2018-12-27T16:25:43.871Z  INFO main utilities.Log:21 - Rate per 30 Sec is highlighted
+2018-12-27T16:25:43.928Z  INFO main utilities.Log:21 - Rate per 60 Sec is highlighted
+2018-12-27T16:25:43.979Z  INFO main utilities.Log:21 - Capped Fixed Duration is highlighted
+2018-12-27T16:25:44.030Z  INFO main utilities.Log:21 - Capped Max Rate For Fixed Duration is highlighted
+2018-12-27T16:25:44.080Z  INFO main utilities.Log:21 - Capped Rate (after Duration) per Second is highlighted
+2018-12-27T16:25:44.132Z  INFO main utilities.Log:21 - Floating Credit Included is highlighted
+2018-12-27T16:25:44.232Z  INFO main utilities.Log:21 - The value of new call rateCall Rate Category is highlighted with value <New>
+2018-12-27T16:25:44.340Z  INFO main utilities.Log:21 - The value of new call rateInitial Duration (sec) is highlighted with value <New>
+2018-12-27T16:25:44.440Z  INFO main utilities.Log:21 - The value of new call rateRate per Cost is highlighted with value <New>
+2018-12-27T16:25:44.537Z  INFO main utilities.Log:21 - The value of new call rateRate Fixed is highlighted with value <New>
+2018-12-27T16:25:44.636Z  INFO main utilities.Log:21 - The value of new call rateRate per KB is highlighted with value <New>
+2018-12-27T16:25:44.744Z  INFO main utilities.Log:21 - The value of new call rateRate per Second is highlighted with value <New>
+2018-12-27T16:25:44.844Z  INFO main utilities.Log:21 - The value of new call rateRate per 30 Sec is highlighted with value <New>
+2018-12-27T16:25:44.941Z  INFO main utilities.Log:21 - The value of new call rateRate per 60 Sec is highlighted with value <New>
+2018-12-27T16:25:45.037Z  INFO main utilities.Log:21 - The value of new call rateCapped Fixed Duration is highlighted with value <New>
+2018-12-27T16:25:45.135Z  INFO main utilities.Log:21 - The value of new call rateCapped Max Rate For Fixed Duration is highlighted with value <New>
+2018-12-27T16:25:45.232Z  INFO main utilities.Log:21 - The value of new call rateCapped Rate (after Duration) per Second is highlighted with value <New>
+2018-12-27T16:25:45.320Z  INFO main utilities.Log:21 - The value of new call rateFloating Credit Included is highlighted with value <New>
+2018-12-27T16:25:45.363Z  INFO main utilities.Log:21 - Revert icon of rate plan with description: Auto TC84 is clicked
+2018-12-27T16:26:08.362Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:26:08.367Z  INFO main utilities.Log:21 - The scenario: TC85-Precondition-Change info of rate plan for verifying Service Number list is running...
+2018-12-27T16:26:11.940Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:26:11.941Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:26:15.266Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:26:17.281Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:26:17.508Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:26:17.628Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:26:38.088Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:26:38.887Z  INFO main utilities.Log:21 - The textbox filter is entered with the value 5GB ($66) MBB (4RP1A)
+2018-12-27T16:26:38.887Z  INFO main utilities.Log:21 - The value 5GB ($66) MBB (4RP1A) is entered in the filter textbox
+2018-12-27T16:26:39.951Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:26:41.085Z  INFO main utilities.Log:21 - I enter the value Precondition SerNum for the field Comments
+2018-12-27T16:26:42.689Z  INFO main utilities.Log:21 - The rate plan with Description 5GB ($66) MBB (4RP1A) is saved successfully
+2018-12-27T16:27:04.871Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:27:04.875Z  INFO main utilities.Log:21 - The scenario: TC86-Verify fields on the service number list is running...
+2018-12-27T16:27:08.109Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:27:08.110Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:27:11.406Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:27:31.773Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:27:52.126Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:27:52.771Z  INFO main utilities.Log:21 - The textbox filter is entered with the value 5GB ($66) MBB (4RP1A)
+2018-12-27T16:27:52.771Z  INFO main utilities.Log:21 - The value 5GB ($66) MBB (4RP1A) is entered in the filter textbox
+2018-12-27T16:27:52.815Z  INFO main utilities.Log:21 - I should see the list icon for Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:28:18.546Z  INFO main utilities.Log:21 - I should see the Sevice Number popup of rate plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:28:18.568Z  INFO main utilities.Log:21 - The Download as CSV button is displayed
+2018-12-27T16:28:18.591Z  INFO main utilities.Log:21 - I should see the header CIDN
+2018-12-27T16:28:18.613Z  INFO main utilities.Log:21 - I should see the header Salutation
+2018-12-27T16:28:18.636Z  INFO main utilities.Log:21 - I should see the header First Name
+2018-12-27T16:28:18.656Z  INFO main utilities.Log:21 - I should see the header Last Name
+2018-12-27T16:28:18.679Z  INFO main utilities.Log:21 - I should see the header Address
+2018-12-27T16:28:18.699Z  INFO main utilities.Log:21 - I should see the header Contact Number
+2018-12-27T16:28:18.719Z  INFO main utilities.Log:21 - I should see the header Email
+2018-12-27T16:28:18.752Z  INFO main utilities.Log:21 - I should see the header Service Number
+2018-12-27T16:28:20.953Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:28:20.957Z  INFO main utilities.Log:21 - The scenario: TC87-Verify values of service number list is running...
+2018-12-27T16:28:24.040Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:28:24.040Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:28:27.308Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:28:29.322Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:28:29.535Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:28:29.653Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:28:49.854Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:28:50.592Z  INFO main utilities.Log:21 - The textbox filter is entered with the value 5GB ($66) MBB (4RP1A)
+2018-12-27T16:28:50.592Z  INFO main utilities.Log:21 - The value 5GB ($66) MBB (4RP1A) is entered in the filter textbox
+2018-12-27T16:28:51.646Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:28:52.769Z  INFO main utilities.Log:21 - I enter the value Test API Sernum for the field Comments
+2018-12-27T16:28:54.374Z  INFO main utilities.Log:21 - The rate plan with Description 5GB ($66) MBB (4RP1A) is saved successfully
+2018-12-27T16:28:56.396Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:28:56.585Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:29:16.621Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:29:17.262Z  INFO main utilities.Log:21 - The textbox filter is entered with the value 5GB ($66) MBB (4RP1A)
+2018-12-27T16:29:17.262Z  INFO main utilities.Log:21 - The value 5GB ($66) MBB (4RP1A) is entered in the filter textbox
+2018-12-27T16:29:19.331Z  INFO main utilities.Log:21 - I double click on Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:29:19.391Z  INFO main utilities.Log:21 - I should see the list icon for Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:29:45.270Z  INFO main utilities.Log:21 - I should see the Sevice Number popup of rate plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:29:45.282Z  INFO main utilities.Log:21 - I got 1 row(s) in Service Number popup
+2018-12-27T16:29:56.400Z  INFO main utilities.Log:21 - {"code":200,"data":{"admin":true,"effective":true,"roles":["PROV_ADMIN","PROVISIONING"],"username":"stephenr"},"success":true}
+2018-12-27T16:30:01.700Z  INFO main utilities.Log:21 - {"code":200,"data":[{"cidn":"950001","salutation":"MS","firstName":"Crystal","lastName":"Lee","longAddress":"95 Cubitt Street, CREMORNE, VIC, 3121","contactNumber":"0438833113","email":"clee@dawkinsocchiuto.com.au","serviceNumber":"+61466081768"}],"success":true}
+2018-12-27T16:30:01.751Z  INFO main utilities.Log:21 - The value 950001 is displayed on website
+2018-12-27T16:30:01.794Z  INFO main utilities.Log:21 - The value MS is displayed on website
+2018-12-27T16:30:01.836Z  INFO main utilities.Log:21 - The value Crystal is displayed on website
+2018-12-27T16:30:01.878Z  INFO main utilities.Log:21 - The value Lee is displayed on website
+2018-12-27T16:30:01.920Z  INFO main utilities.Log:21 - The value 95 Cubitt Street, CREMORNE, VIC, 3121 is displayed on website
+2018-12-27T16:30:01.961Z  INFO main utilities.Log:21 - The value 0438833113 is displayed on website
+2018-12-27T16:30:02.002Z  INFO main utilities.Log:21 - The value clee@dawkinsocchiuto.com.au is displayed on website
+2018-12-27T16:30:02.048Z  INFO main utilities.Log:21 - The value +61466081768 is displayed on website
+2018-12-27T16:30:04.253Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:30:04.257Z  INFO main utilities.Log:21 - The scenario: TC88-Verifying for downloading CSV of Service Number is running...
+2018-12-27T16:30:07.117Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:30:07.117Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:30:10.477Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:30:12.519Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:30:12.736Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:30:12.860Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:30:33.187Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:30:33.927Z  INFO main utilities.Log:21 - The textbox filter is entered with the value 5GB ($66) MBB (4RP1A)
+2018-12-27T16:30:33.927Z  INFO main utilities.Log:21 - The value 5GB ($66) MBB (4RP1A) is entered in the filter textbox
+2018-12-27T16:30:34.993Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:30:36.106Z  INFO main utilities.Log:21 - I enter the value Download SerNum for the field Comments
+2018-12-27T16:30:37.702Z  INFO main utilities.Log:21 - The rate plan with Description 5GB ($66) MBB (4RP1A) is saved successfully
+2018-12-27T16:30:39.724Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:30:39.954Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:31:00.266Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:31:00.902Z  INFO main utilities.Log:21 - The textbox filter is entered with the value 5GB ($66) MBB (4RP1A)
+2018-12-27T16:31:00.902Z  INFO main utilities.Log:21 - The value 5GB ($66) MBB (4RP1A) is entered in the filter textbox
+2018-12-27T16:31:00.950Z  INFO main utilities.Log:21 - I should see the list icon for Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:31:26.937Z  INFO main utilities.Log:21 - I should see the Sevice Number popup of rate plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:31:26.949Z  INFO main utilities.Log:21 - I got 1 row(s) in Service Number popup
+2018-12-27T16:31:26.969Z  INFO main utilities.Log:21 - The Download as CSV button is displayed
+2018-12-27T16:31:31.240Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:31:31.244Z  INFO main utilities.Log:21 - The scenario: TC89-Open new windows when double-clicking on Service Number is running...
+2018-12-27T16:31:33.857Z  INFO main utilities.Log:21 - I access the Provisioning Portal website with user role admin
+2018-12-27T16:31:33.858Z  INFO main utilities.Log:21 - I am on the Home page
+2018-12-27T16:31:36.129Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:31:38.169Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:31:38.376Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan page
+2018-12-27T16:31:38.488Z  INFO main utilities.Log:21 - The bureau CORTEL is selected in Select Bureau dropdown
+2018-12-27T16:31:58.846Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:31:59.581Z  INFO main utilities.Log:21 - The textbox filter is entered with the value 5GB ($66) MBB (4RP1A)
+2018-12-27T16:31:59.581Z  INFO main utilities.Log:21 - The value 5GB ($66) MBB (4RP1A) is entered in the filter textbox
+2018-12-27T16:32:00.640Z  INFO main utilities.Log:21 - I click on Edit button for Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:32:01.769Z  INFO main utilities.Log:21 - I enter the value Double click SerNum for the field Comments
+2018-12-27T16:32:03.398Z  INFO main utilities.Log:21 - The rate plan with Description 5GB ($66) MBB (4RP1A) is saved successfully
+2018-12-27T16:32:05.419Z  INFO main utilities.Log:21 - The Home button is displayed
+2018-12-27T16:32:05.605Z  INFO main utilities.Log:21 - Directed successfully to Rate Plan Admin page
+2018-12-27T16:32:25.915Z  INFO main utilities.Log:21 - The filter textbox is displayed
+2018-12-27T16:32:26.542Z  INFO main utilities.Log:21 - The textbox filter is entered with the value 5GB ($66) MBB (4RP1A)
+2018-12-27T16:32:26.542Z  INFO main utilities.Log:21 - The value 5GB ($66) MBB (4RP1A) is entered in the filter textbox
+2018-12-27T16:32:26.585Z  INFO main utilities.Log:21 - I should see the list icon for Rate Plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:32:52.535Z  INFO main utilities.Log:21 - I should see the Sevice Number popup of rate plan with Description: 5GB ($66) MBB (4RP1A)
+2018-12-27T16:32:52.545Z  INFO main utilities.Log:21 - I got 1 row(s) in Service Number popup
+2018-12-27T16:33:01.169Z  INFO main utilities.Log:21 - The new page is not logged in, so URL is directed to URL: https://cindy.telecombilling.com.au/cortel-admin/security/showLoginAdmin.do
+2018-12-27T16:33:33.447Z  INFO main utilities.Log:21 - End the scenario...
+2018-12-27T16:33:33.773Z  INFO main utilities.Log:16 - Test is Ending...
